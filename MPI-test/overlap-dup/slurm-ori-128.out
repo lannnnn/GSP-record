@@ -1,0 +1,510 @@
+[  0][INFO    ]------(0.000 sec) Selecting CUDA device depending on MPI Rank
+[  0][WARNING ]------(0.188 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 37][WARNING ]------(0.181 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 40][WARNING ]------(0.181 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 17][WARNING ]------(0.185 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 18][WARNING ]------(0.184 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 21][WARNING ]------(0.184 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 24][WARNING ]------(0.183 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 77][WARNING ]------(0.174 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[123][WARNING ]------(0.165 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[126][WARNING ]------(0.166 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[124][WARNING ]------(0.164 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[127][WARNING ]------(0.164 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 61][WARNING ]------(0.176 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  1][WARNING ]------(0.188 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 58][WARNING ]------(0.177 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 43][WARNING ]------(0.180 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 28][WARNING ]------(0.183 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 46][WARNING ]------(0.179 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[125][WARNING ]------(0.165 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 47][WARNING ]------(0.180 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 53][WARNING ]------(0.178 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 41][WARNING ]------(0.180 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 11][WARNING ]------(0.186 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 20][WARNING ]------(0.184 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 14][WARNING ]------(0.185 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 74][WARNING ]------(0.174 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  6][WARNING ]------(0.187 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 12][WARNING ]------(0.185 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 45][WARNING ]------(0.180 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 54][WARNING ]------(0.179 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 93][WARNING ]------(0.170 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 48][WARNING ]------(0.179 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 30][WARNING ]------(0.182 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 39][WARNING ]------(0.181 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 57][WARNING ]------(0.177 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 52][WARNING ]------(0.179 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 31][WARNING ]------(0.182 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 94][WARNING ]------(0.171 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 10][WARNING ]------(0.186 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 73][WARNING ]------(0.174 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 34][WARNING ]------(0.182 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[100][WARNING ]------(0.169 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 76][WARNING ]------(0.174 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[109][WARNING ]------(0.167 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  4][WARNING ]------(0.187 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 56][WARNING ]------(0.177 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 86][WARNING ]------(0.172 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 38][WARNING ]------(0.181 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 80][WARNING ]------(0.173 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 98][WARNING ]------(0.169 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 92][WARNING ]------(0.171 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 71][WARNING ]------(0.175 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 84][WARNING ]------(0.172 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 36][WARNING ]------(0.181 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  9][WARNING ]------(0.186 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 27][WARNING ]------(0.183 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 60][WARNING ]------(0.177 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 69][WARNING ]------(0.176 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 63][WARNING ]------(0.176 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[121][WARNING ]------(0.165 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 13][WARNING ]------(0.186 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 67][WARNING ]------(0.176 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 25][WARNING ]------(0.184 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 85][WARNING ]------(0.172 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 70][WARNING ]------(0.175 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[106][WARNING ]------(0.168 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[115][WARNING ]------(0.166 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 83][WARNING ]------(0.172 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[101][WARNING ]------(0.169 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 95][WARNING ]------(0.170 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  5][WARNING ]------(0.187 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 33][WARNING ]------(0.182 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 15][WARNING ]------(0.185 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[105][WARNING ]------(0.168 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 75][WARNING ]------(0.174 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 87][WARNING ]------(0.172 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 55][WARNING ]------(0.178 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 22][WARNING ]------(0.184 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 19][WARNING ]------(0.184 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 88][WARNING ]------(0.171 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[112][WARNING ]------(0.167 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  7][WARNING ]------(0.187 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[122][WARNING ]------(0.165 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[104][WARNING ]------(0.168 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 89][WARNING ]------(0.172 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  2][WARNING ]------(0.187 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 44][WARNING ]------(0.180 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 59][WARNING ]------(0.178 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 51][WARNING ]------(0.179 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 42][WARNING ]------(0.181 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[102][WARNING ]------(0.169 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 96][WARNING ]------(0.171 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 99][WARNING ]------(0.169 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 16][WARNING ]------(0.185 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 79][WARNING ]------(0.173 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 49][WARNING ]------(0.180 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[103][WARNING ]------(0.169 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 35][WARNING ]------(0.181 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 23][WARNING ]------(0.184 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 62][WARNING ]------(0.177 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 29][WARNING ]------(0.182 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 50][WARNING ]------(0.178 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 26][WARNING ]------(0.183 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[119][WARNING ]------(0.166 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 65][WARNING ]------(0.176 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[120][WARNING ]------(0.165 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[108][WARNING ]------(0.167 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 90][WARNING ]------(0.171 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 66][WARNING ]------(0.176 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[114][WARNING ]------(0.166 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 81][WARNING ]------(0.173 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 64][WARNING ]------(0.176 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 82][WARNING ]------(0.173 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 97][WARNING ]------(0.170 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[118][WARNING ]------(0.166 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 91][WARNING ]------(0.171 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[116][WARNING ]------(0.166 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 68][WARNING ]------(0.175 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[110][WARNING ]------(0.167 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[107][WARNING ]------(0.168 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[113][WARNING ]------(0.167 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 32][WARNING ]------(0.182 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  8][WARNING ]------(0.186 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 78][WARNING ]------(0.173 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  3][WARNING ]------(0.187 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[117][WARNING ]------(0.166 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 72][WARNING ]------(0.176 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[111][WARNING ]------(0.167 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  0][INFO    ]------(2.425 sec) Batch run of benchmark scenarios, saving result to gpu_benchmark.sqlite3
+[  0][INFO    ]------(2.426 sec) Running different communication overlap strategies
+[  0][INFO    ]------(2.426 sec) 
+[  0][INFO    ]------(2.429 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'noOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]------(2.429 sec) Simulating Scenario 1 of 14 :
+[  0][INFO    ]------(3.082 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(3.372 sec) Simulation finished
+[  0][RESULT  ]------(3.372 sec) MLUPS per process 1444.55
+[  0][RESULT  ]------(3.372 sec) Time per time step 0.00290354
+[  0][INFO    ]------(3.442 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(3.718 sec) Simulation finished
+[  0][RESULT  ]------(3.718 sec) MLUPS per process 1522.35
+[  0][RESULT  ]------(3.718 sec) Time per time step 0.00275515
+[  0][INFO    ]------(3.735 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(4.005 sec) Simulation finished
+[  0][RESULT  ]------(4.005 sec) MLUPS per process 1554.59
+[  0][RESULT  ]------(4.005 sec) Time per time step 0.00269802
+[  0][INFO    ]------(4.034 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'simpleOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]------(4.034 sec) Simulating Scenario 2 of 14 :
+[  0][INFO    ]------(4.524 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(4.820 sec) Simulation finished
+[  0][RESULT  ]------(4.820 sec) MLUPS per process 1417.22
+[  0][RESULT  ]------(4.820 sec) Time per time step 0.00295952
+[  0][INFO    ]------(4.837 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(5.100 sec) Simulation finished
+[  0][RESULT  ]------(5.100 sec) MLUPS per process 1596.77
+[  0][RESULT  ]------(5.100 sec) Time per time step 0.00262675
+[  0][INFO    ]------(5.118 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(5.411 sec) Simulation finished
+[  0][RESULT  ]------(5.411 sec) MLUPS per process 1430.26
+[  0][RESULT  ]------(5.411 sec) Time per time step 0.00293254
+[  0][INFO    ]------(5.441 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (4, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'simpleOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]------(5.441 sec) Simulating Scenario 3 of 14 :
+[  0][INFO    ]------(5.908 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(6.220 sec) Simulation finished
+[  0][RESULT  ]------(6.220 sec) MLUPS per process 1343.88
+[  0][RESULT  ]------(6.220 sec) Time per time step 0.00312104
+[  0][INFO    ]------(6.237 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(6.496 sec) Simulation finished
+[  0][RESULT  ]------(6.496 sec) MLUPS per process 1619.1
+[  0][RESULT  ]------(6.496 sec) Time per time step 0.00259051
+[  0][INFO    ]------(6.512 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(6.779 sec) Simulation finished
+[  0][RESULT  ]------(6.779 sec) MLUPS per process 1571.01
+[  0][RESULT  ]------(6.779 sec) Time per time step 0.00266981
+[  0][INFO    ]------(6.809 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (8, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'simpleOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]------(6.809 sec) Simulating Scenario 4 of 14 :
+[  0][INFO    ]------(7.268 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(7.536 sec) Simulation finished
+[  0][RESULT  ]------(7.536 sec) MLUPS per process 1565.53
+[  0][RESULT  ]------(7.536 sec) Time per time step 0.00267916
+[  0][INFO    ]------(7.553 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(7.798 sec) Simulation finished
+[  0][RESULT  ]------(7.798 sec) MLUPS per process 1710.23
+[  0][RESULT  ]------(7.798 sec) Time per time step 0.00245249
+[  0][INFO    ]------(7.816 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(8.087 sec) Simulation finished
+[  0][RESULT  ]------(8.087 sec) MLUPS per process 1550.26
+[  0][RESULT  ]------(8.087 sec) Time per time step 0.00270555
+[  0][INFO    ]------(8.117 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (16, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'simpleOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]------(8.117 sec) Simulating Scenario 5 of 14 :
+[  0][INFO    ]------(8.583 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(8.813 sec) Simulation finished
+[  0][RESULT  ]------(8.813 sec) MLUPS per process 1824.21
+[  0][RESULT  ]------(8.813 sec) Time per time step 0.00229925
+[  0][INFO    ]------(8.831 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(9.125 sec) Simulation finished
+[  0][RESULT  ]------(9.126 sec) MLUPS per process 1423.63
+[  0][RESULT  ]------(9.126 sec) Time per time step 0.00294621
+[  0][INFO    ]------(9.147 sec) Starting simulation with 100 time steps
+[  0][INFO    ]------(9.380 sec) Simulation finished
+[  0][RESULT  ]------(9.380 sec) MLUPS per process 1800.85
+[  0][RESULT  ]------(9.380 sec) Time per time step 0.00232906
+[  0][INFO    ]------(9.409 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (32, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'simpleOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]------(9.409 sec) Simulating Scenario 6 of 14 :
+[  0][INFO    ]------(9.876 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(10.148 sec) Simulation finished
+[  0][RESULT  ]-----(10.148 sec) MLUPS per process 1540.59
+[  0][RESULT  ]-----(10.148 sec) Time per time step 0.00272254
+[  0][INFO    ]-----(10.166 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(10.409 sec) Simulation finished
+[  0][RESULT  ]-----(10.409 sec) MLUPS per process 1724.89
+[  0][RESULT  ]-----(10.409 sec) Time per time step 0.00243163
+[  0][INFO    ]-----(10.426 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(10.699 sec) Simulation finished
+[  0][RESULT  ]-----(10.699 sec) MLUPS per process 1533.59
+[  0][RESULT  ]-----(10.699 sec) Time per time step 0.00273495
+[  0][INFO    ]-----(10.726 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (4, 4, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'simpleOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(10.726 sec) Simulating Scenario 7 of 14 :
+[  0][INFO    ]-----(11.201 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(11.423 sec) Simulation finished
+[  0][RESULT  ]-----(11.423 sec) MLUPS per process 1891.55
+[  0][RESULT  ]-----(11.423 sec) Time per time step 0.00221739
+[  0][INFO    ]-----(11.439 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(11.703 sec) Simulation finished
+[  0][RESULT  ]-----(11.703 sec) MLUPS per process 1594.29
+[  0][RESULT  ]-----(11.703 sec) Time per time step 0.00263083
+[  0][INFO    ]-----(11.718 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(11.981 sec) Simulation finished
+[  0][RESULT  ]-----(11.981 sec) MLUPS per process 1597.19
+[  0][RESULT  ]-----(11.981 sec) Time per time step 0.00262604
+[  0][INFO    ]-----(12.011 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (8, 8, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'simpleOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(12.011 sec) Simulating Scenario 8 of 14 :
+[  0][INFO    ]-----(12.491 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(12.763 sec) Simulation finished
+[  0][RESULT  ]-----(12.763 sec) MLUPS per process 1543.04
+[  0][RESULT  ]-----(12.763 sec) Time per time step 0.00271821
+[  0][INFO    ]-----(12.782 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(13.059 sec) Simulation finished
+[  0][RESULT  ]-----(13.059 sec) MLUPS per process 1513.71
+[  0][RESULT  ]-----(13.059 sec) Time per time step 0.00277087
+[  0][INFO    ]-----(13.078 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(13.324 sec) Simulation finished
+[  0][RESULT  ]-----(13.324 sec) MLUPS per process 1701
+[  0][RESULT  ]-----(13.324 sec) Time per time step 0.00246578
+[  0][INFO    ]-----(13.355 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (16, 16, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'simpleOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(13.355 sec) Simulating Scenario 9 of 14 :
+[  0][INFO    ]-----(13.822 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(14.017 sec) Simulation finished
+[  0][RESULT  ]-----(14.017 sec) MLUPS per process 2151.96
+[  0][RESULT  ]-----(14.017 sec) Time per time step 0.00194906
+[  0][INFO    ]-----(14.034 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(14.229 sec) Simulation finished
+[  0][RESULT  ]-----(14.229 sec) MLUPS per process 2148.55
+[  0][RESULT  ]-----(14.229 sec) Time per time step 0.00195215
+[  0][INFO    ]-----(14.246 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(14.442 sec) Simulation finished
+[  0][RESULT  ]-----(14.442 sec) MLUPS per process 2147.11
+[  0][RESULT  ]-----(14.442 sec) Time per time step 0.00195347
+[  0][INFO    ]-----(14.469 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (32, 32, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'simpleOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(14.469 sec) Simulating Scenario 10 of 14 :
+[  0][INFO    ]-----(14.950 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(15.172 sec) Simulation finished
+[  0][RESULT  ]-----(15.172 sec) MLUPS per process 1890.89
+[  0][RESULT  ]-----(15.172 sec) Time per time step 0.00221816
+[  0][INFO    ]-----(15.188 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(15.409 sec) Simulation finished
+[  0][RESULT  ]-----(15.409 sec) MLUPS per process 1900.66
+[  0][RESULT  ]-----(15.409 sec) Time per time step 0.00220676
+[  0][INFO    ]-----(15.425 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(15.645 sec) Simulation finished
+[  0][RESULT  ]-----(15.645 sec) MLUPS per process 1910.48
+[  0][RESULT  ]-----(15.645 sec) Time per time step 0.00219542
+[  0][INFO    ]-----(15.673 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (4, 4, 4),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'simpleOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(15.673 sec) Simulating Scenario 11 of 14 :
+[  0][INFO    ]-----(16.123 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(16.395 sec) Simulation finished
+[  0][RESULT  ]-----(16.395 sec) MLUPS per process 1542.49
+[  0][RESULT  ]-----(16.395 sec) Time per time step 0.00271918
+[  0][INFO    ]-----(16.413 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(16.661 sec) Simulation finished
+[  0][RESULT  ]-----(16.661 sec) MLUPS per process 1693.5
+[  0][RESULT  ]-----(16.661 sec) Time per time step 0.0024767
+[  0][INFO    ]-----(16.679 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(16.941 sec) Simulation finished
+[  0][RESULT  ]-----(16.941 sec) MLUPS per process 1601.35
+[  0][RESULT  ]-----(16.941 sec) Time per time step 0.00261923
+[  0][INFO    ]-----(16.969 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (8, 8, 8),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'simpleOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(16.969 sec) Simulating Scenario 12 of 14 :
+[  0][INFO    ]-----(17.424 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(17.648 sec) Simulation finished
+[  0][RESULT  ]-----(17.648 sec) MLUPS per process 1869.29
+[  0][RESULT  ]-----(17.648 sec) Time per time step 0.0022438
+[  0][INFO    ]-----(17.784 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(18.032 sec) Simulation finished
+[  0][RESULT  ]-----(18.032 sec) MLUPS per process 1696.36
+[  0][RESULT  ]-----(18.032 sec) Time per time step 0.00247253
+[  0][INFO    ]-----(18.049 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(18.272 sec) Simulation finished
+[  0][RESULT  ]-----(18.272 sec) MLUPS per process 1876.88
+[  0][RESULT  ]-----(18.272 sec) Time per time step 0.00223472
+[  0][INFO    ]-----(18.302 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (16, 16, 16),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'simpleOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(18.302 sec) Simulating Scenario 13 of 14 :
+[  0][INFO    ]-----(18.744 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(18.950 sec) Simulation finished
+[  0][RESULT  ]-----(18.950 sec) MLUPS per process 2035.95
+[  0][RESULT  ]-----(18.950 sec) Time per time step 0.00206012
+[  0][INFO    ]-----(18.970 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(19.177 sec) Simulation finished
+[  0][RESULT  ]-----(19.177 sec) MLUPS per process 2030.98
+[  0][RESULT  ]-----(19.177 sec) Time per time step 0.00206517
+[  0][INFO    ]-----(19.194 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(19.400 sec) Simulation finished
+[  0][RESULT  ]-----(19.400 sec) MLUPS per process 2030.49
+[  0][RESULT  ]-----(19.400 sec) Time per time step 0.00206566
+[  0][INFO    ]-----(19.430 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 4, 4),
+[  0]                                             'cellsPerBlock': (256, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (32, 32, 32),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'simpleOverlap',
+[  0]                                            'timesteps': 100,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(19.430 sec) Simulating Scenario 14 of 14 :
+[  0][INFO    ]-----(19.883 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(20.129 sec) Simulation finished
+[  0][RESULT  ]-----(20.129 sec) MLUPS per process 1702.47
+[  0][RESULT  ]-----(20.129 sec) Time per time step 0.00246367
+[  0][INFO    ]-----(20.145 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(20.392 sec) Simulation finished
+[  0][RESULT  ]-----(20.392 sec) MLUPS per process 1696.06
+[  0][RESULT  ]-----(20.392 sec) Time per time step 0.00247297
+[  0][INFO    ]-----(20.425 sec) Starting simulation with 100 time steps
+[  0][INFO    ]-----(20.672 sec) Simulation finished
+[  0][RESULT  ]-----(20.672 sec) MLUPS per process 1699.53
+[  0][RESULT  ]-----(20.672 sec) Time per time step 0.00246793

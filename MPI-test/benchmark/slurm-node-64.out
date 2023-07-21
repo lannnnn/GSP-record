@@ -1,0 +1,918 @@
+[ 0][INFO    ]------(0.000 sec) Selecting CUDA device depending on MPI Rank
+[ 0][WARNING ]------(0.166 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[44][WARNING ]------(0.159 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[58][WARNING ]------(0.154 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 2][WARNING ]------(0.166 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[48][WARNING ]------(0.158 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[35][WARNING ]------(0.160 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 1][WARNING ]------(0.166 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 5][WARNING ]------(0.165 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[61][WARNING ]------(0.156 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[62][WARNING ]------(0.155 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[36][WARNING ]------(0.160 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[30][WARNING ]------(0.161 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[34][WARNING ]------(0.160 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[20][WARNING ]------(0.163 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[38][WARNING ]------(0.159 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 4][WARNING ]------(0.165 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[14][WARNING ]------(0.163 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[18][WARNING ]------(0.163 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 6][WARNING ]------(0.165 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[51][WARNING ]------(0.157 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 3][WARNING ]------(0.165 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[33][WARNING ]------(0.160 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[57][WARNING ]------(0.157 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[59][WARNING ]------(0.156 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[53][WARNING ]------(0.157 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[45][WARNING ]------(0.158 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[49][WARNING ]------(0.158 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[39][WARNING ]------(0.159 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[29][WARNING ]------(0.161 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 9][WARNING ]------(0.164 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[17][WARNING ]------(0.163 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[25][WARNING ]------(0.162 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[15][WARNING ]------(0.163 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[63][WARNING ]------(0.155 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[50][WARNING ]------(0.158 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[52][WARNING ]------(0.157 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[16][WARNING ]------(0.163 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[56][WARNING ]------(0.156 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[54][WARNING ]------(0.157 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[42][WARNING ]------(0.159 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[46][WARNING ]------(0.159 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[32][WARNING ]------(0.160 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[10][WARNING ]------(0.164 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 8][WARNING ]------(0.164 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[28][WARNING ]------(0.162 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[12][WARNING ]------(0.164 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[24][WARNING ]------(0.162 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[60][WARNING ]------(0.156 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[26][WARNING ]------(0.162 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[55][WARNING ]------(0.157 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[21][WARNING ]------(0.162 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[43][WARNING ]------(0.158 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[37][WARNING ]------(0.160 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[41][WARNING ]------(0.159 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 7][WARNING ]------(0.165 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[40][WARNING ]------(0.160 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[31][WARNING ]------(0.161 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[19][WARNING ]------(0.163 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[13][WARNING ]------(0.163 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[11][WARNING ]------(0.164 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[47][WARNING ]------(0.156 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[27][WARNING ]------(0.161 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[22][WARNING ]------(0.163 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[23][WARNING ]------(0.163 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 0][INFO    ]------(0.851 sec) Batch run of benchmark scenarios, saving result to gpu_benchmark.sqlite3
+[ 0][INFO    ]------(0.851 sec) Running single GPU benchmarks
+[ 0][INFO    ]------(0.851 sec) 
+[ 0][INFO    ]------(0.852 sec) Cuda block size (32, 16, 1) would exceed register limit. Skipping.
+[ 0][INFO    ]------(0.852 sec) Cuda block size (64, 8, 1) would exceed register limit. Skipping.
+[ 0][INFO    ]------(0.852 sec) Cuda block size (32, 16, 1) would exceed register limit. Skipping.
+[ 0][INFO    ]------(0.852 sec) Cuda block size (128, 4, 1) would exceed register limit. Skipping.
+[ 0][INFO    ]------(0.852 sec) Cuda block size (64, 8, 1) would exceed register limit. Skipping.
+[ 0][INFO    ]------(0.852 sec) Cuda block size (32, 16, 1) would exceed register limit. Skipping.
+[ 0][INFO    ]------(0.852 sec) Cuda block size (256, 2, 1) would exceed register limit. Skipping.
+[ 0][INFO    ]------(0.852 sec) Cuda block size (128, 4, 1) would exceed register limit. Skipping.
+[ 0][INFO    ]------(0.852 sec) Cuda block size (64, 8, 1) would exceed register limit. Skipping.
+[ 0][INFO    ]------(0.852 sec) Cuda block size (32, 16, 1) would exceed register limit. Skipping.
+[ 0][INFO    ]------(0.853 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (32, 32, 32),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 128000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]------(0.853 sec) Simulating Scenario 1 of 30 :
+[ 0][INFO    ]------(1.171 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]------(1.241 sec) Starting simulation with 128000 time steps
+[ 0][INFO    ]------(2.298 sec) Simulation finished
+[ 0][RESULT  ]------(2.298 sec) MLUPS per process 3969.34
+[ 0][RESULT  ]------(2.298 sec) Time per time step 8.25529e-06
+[ 0][INFO    ]------(2.359 sec) Starting simulation with 128000 time steps
+[ 0][INFO    ]------(3.374 sec) Simulation finished
+[ 0][RESULT  ]------(3.374 sec) MLUPS per process 4132.66
+[ 0][RESULT  ]------(3.374 sec) Time per time step 7.92904e-06
+[ 0][INFO    ]------(3.386 sec) Starting simulation with 128000 time steps
+[ 0][INFO    ]------(4.401 sec) Simulation finished
+[ 0][RESULT  ]------(4.401 sec) MLUPS per process 4132.77
+[ 0][RESULT  ]------(4.401 sec) Time per time step 7.92882e-06
+[ 0][INFO    ]------(4.418 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (32, 32, 32),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 2, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 128000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]------(4.418 sec) Simulating Scenario 2 of 30 :
+[ 0][INFO    ]------(4.424 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]------(4.454 sec) Starting simulation with 128000 time steps
+[ 0][INFO    ]------(5.443 sec) Simulation finished
+[ 0][RESULT  ]------(5.443 sec) MLUPS per process 4243.07
+[ 0][RESULT  ]------(5.443 sec) Time per time step 7.72271e-06
+[ 0][INFO    ]------(5.456 sec) Starting simulation with 128000 time steps
+[ 0][INFO    ]------(6.445 sec) Simulation finished
+[ 0][RESULT  ]------(6.445 sec) MLUPS per process 4242.42
+[ 0][RESULT  ]------(6.445 sec) Time per time step 7.7239e-06
+[ 0][INFO    ]------(6.458 sec) Starting simulation with 128000 time steps
+[ 0][INFO    ]------(7.446 sec) Simulation finished
+[ 0][RESULT  ]------(7.446 sec) MLUPS per process 4243.99
+[ 0][RESULT  ]------(7.446 sec) Time per time step 7.72103e-06
+[ 0][INFO    ]------(7.462 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (32, 32, 32),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 4, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 128000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]------(7.462 sec) Simulating Scenario 3 of 30 :
+[ 0][INFO    ]------(7.578 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]------(7.608 sec) Starting simulation with 128000 time steps
+[ 0][INFO    ]------(8.650 sec) Simulation finished
+[ 0][RESULT  ]------(8.650 sec) MLUPS per process 4023.57
+[ 0][RESULT  ]------(8.650 sec) Time per time step 8.14401e-06
+[ 0][INFO    ]------(8.664 sec) Starting simulation with 128000 time steps
+[ 0][INFO    ]------(9.706 sec) Simulation finished
+[ 0][RESULT  ]------(9.706 sec) MLUPS per process 4023.47
+[ 0][RESULT  ]------(9.706 sec) Time per time step 8.14422e-06
+[ 0][INFO    ]------(9.719 sec) Starting simulation with 128000 time steps
+[ 0][INFO    ]-----(10.761 sec) Simulation finished
+[ 0][RESULT  ]-----(10.761 sec) MLUPS per process 4023.68
+[ 0][RESULT  ]-----(10.761 sec) Time per time step 8.14378e-06
+[ 0][INFO    ]-----(10.777 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (32, 32, 32),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 8, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 128000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(10.777 sec) Simulating Scenario 4 of 30 :
+[ 0][INFO    ]-----(10.835 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(10.863 sec) Starting simulation with 128000 time steps
+[ 0][INFO    ]-----(12.044 sec) Simulation finished
+[ 0][RESULT  ]-----(12.044 sec) MLUPS per process 3554.49
+[ 0][RESULT  ]-----(12.044 sec) Time per time step 9.21876e-06
+[ 0][INFO    ]-----(12.057 sec) Starting simulation with 128000 time steps
+[ 0][INFO    ]-----(13.237 sec) Simulation finished
+[ 0][RESULT  ]-----(13.237 sec) MLUPS per process 3554.69
+[ 0][RESULT  ]-----(13.237 sec) Time per time step 9.21823e-06
+[ 0][INFO    ]-----(13.250 sec) Starting simulation with 128000 time steps
+[ 0][INFO    ]-----(14.430 sec) Simulation finished
+[ 0][RESULT  ]-----(14.430 sec) MLUPS per process 3554.23
+[ 0][RESULT  ]-----(14.430 sec) Time per time step 9.21943e-06
+[ 0][INFO    ]-----(14.447 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (64, 64, 64),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 16000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(14.447 sec) Simulating Scenario 5 of 30 :
+[ 0][INFO    ]-----(14.568 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(14.600 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(16.072 sec) Simulation finished
+[ 0][RESULT  ]-----(16.072 sec) MLUPS per process 2849.54
+[ 0][RESULT  ]-----(16.072 sec) Time per time step 9.19951e-05
+[ 0][INFO    ]-----(16.084 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(17.556 sec) Simulation finished
+[ 0][RESULT  ]-----(17.556 sec) MLUPS per process 2849.87
+[ 0][RESULT  ]-----(17.556 sec) Time per time step 9.19845e-05
+[ 0][INFO    ]-----(17.568 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(19.040 sec) Simulation finished
+[ 0][RESULT  ]-----(19.040 sec) MLUPS per process 2849.54
+[ 0][RESULT  ]-----(19.040 sec) Time per time step 9.19953e-05
+[ 0][INFO    ]-----(19.057 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (64, 64, 64),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (64, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 16000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(19.058 sec) Simulating Scenario 6 of 30 :
+[ 0][INFO    ]-----(19.086 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(19.118 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(20.586 sec) Simulation finished
+[ 0][RESULT  ]-----(20.586 sec) MLUPS per process 2855.63
+[ 0][RESULT  ]-----(20.586 sec) Time per time step 9.17989e-05
+[ 0][INFO    ]-----(20.599 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(22.068 sec) Simulation finished
+[ 0][RESULT  ]-----(22.068 sec) MLUPS per process 2855.98
+[ 0][RESULT  ]-----(22.068 sec) Time per time step 9.17877e-05
+[ 0][INFO    ]-----(22.080 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(23.549 sec) Simulation finished
+[ 0][RESULT  ]-----(23.549 sec) MLUPS per process 2855.8
+[ 0][RESULT  ]-----(23.549 sec) Time per time step 9.17935e-05
+[ 0][INFO    ]-----(23.565 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (64, 64, 64),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 2, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 16000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(23.565 sec) Simulating Scenario 7 of 30 :
+[ 0][INFO    ]-----(23.591 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(23.624 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(25.096 sec) Simulation finished
+[ 0][RESULT  ]-----(25.096 sec) MLUPS per process 2849.35
+[ 0][RESULT  ]-----(25.096 sec) Time per time step 9.20015e-05
+[ 0][INFO    ]-----(25.109 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(26.581 sec) Simulation finished
+[ 0][RESULT  ]-----(26.581 sec) MLUPS per process 2849.32
+[ 0][RESULT  ]-----(26.581 sec) Time per time step 9.20022e-05
+[ 0][INFO    ]-----(26.594 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(28.066 sec) Simulation finished
+[ 0][RESULT  ]-----(28.066 sec) MLUPS per process 2849.5
+[ 0][RESULT  ]-----(28.066 sec) Time per time step 9.19964e-05
+[ 0][INFO    ]-----(28.082 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (64, 64, 64),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (64, 2, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 16000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(28.082 sec) Simulating Scenario 8 of 30 :
+[ 0][INFO    ]-----(28.108 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(28.141 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(29.613 sec) Simulation finished
+[ 0][RESULT  ]-----(29.613 sec) MLUPS per process 2849.4
+[ 0][RESULT  ]-----(29.613 sec) Time per time step 9.19996e-05
+[ 0][INFO    ]-----(29.628 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(31.100 sec) Simulation finished
+[ 0][RESULT  ]-----(31.100 sec) MLUPS per process 2849.32
+[ 0][RESULT  ]-----(31.100 sec) Time per time step 9.20024e-05
+[ 0][INFO    ]-----(31.114 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(32.586 sec) Simulation finished
+[ 0][RESULT  ]-----(32.586 sec) MLUPS per process 2849.11
+[ 0][RESULT  ]-----(32.586 sec) Time per time step 9.20091e-05
+[ 0][INFO    ]-----(32.602 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (64, 64, 64),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 4, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 16000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(32.602 sec) Simulating Scenario 9 of 30 :
+[ 0][INFO    ]-----(32.628 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(32.660 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(34.131 sec) Simulation finished
+[ 0][RESULT  ]-----(34.131 sec) MLUPS per process 2850.74
+[ 0][RESULT  ]-----(34.131 sec) Time per time step 9.19566e-05
+[ 0][INFO    ]-----(34.144 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(35.616 sec) Simulation finished
+[ 0][RESULT  ]-----(35.616 sec) MLUPS per process 2850.55
+[ 0][RESULT  ]-----(35.616 sec) Time per time step 9.19625e-05
+[ 0][INFO    ]-----(35.629 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(37.100 sec) Simulation finished
+[ 0][RESULT  ]-----(37.100 sec) MLUPS per process 2850.78
+[ 0][RESULT  ]-----(37.100 sec) Time per time step 9.19551e-05
+[ 0][INFO    ]-----(37.116 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (64, 64, 64),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (64, 4, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 16000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(37.116 sec) Simulating Scenario 10 of 30 :
+[ 0][INFO    ]-----(37.142 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(37.175 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(38.652 sec) Simulation finished
+[ 0][RESULT  ]-----(38.652 sec) MLUPS per process 2839.24
+[ 0][RESULT  ]-----(38.652 sec) Time per time step 9.23289e-05
+[ 0][INFO    ]-----(38.665 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(40.143 sec) Simulation finished
+[ 0][RESULT  ]-----(40.143 sec) MLUPS per process 2838.77
+[ 0][RESULT  ]-----(40.143 sec) Time per time step 9.23443e-05
+[ 0][INFO    ]-----(40.156 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(41.634 sec) Simulation finished
+[ 0][RESULT  ]-----(41.634 sec) MLUPS per process 2838.55
+[ 0][RESULT  ]-----(41.634 sec) Time per time step 9.23512e-05
+[ 0][INFO    ]-----(41.650 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (64, 64, 64),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 8, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 16000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(41.650 sec) Simulating Scenario 11 of 30 :
+[ 0][INFO    ]-----(41.676 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(41.708 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(43.183 sec) Simulation finished
+[ 0][RESULT  ]-----(43.183 sec) MLUPS per process 2844.15
+[ 0][RESULT  ]-----(43.183 sec) Time per time step 9.21695e-05
+[ 0][INFO    ]-----(43.195 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(44.670 sec) Simulation finished
+[ 0][RESULT  ]-----(44.670 sec) MLUPS per process 2843.69
+[ 0][RESULT  ]-----(44.670 sec) Time per time step 9.21846e-05
+[ 0][INFO    ]-----(44.683 sec) Starting simulation with 16000 time steps
+[ 0][INFO    ]-----(46.158 sec) Simulation finished
+[ 0][RESULT  ]-----(46.158 sec) MLUPS per process 2843.83
+[ 0][RESULT  ]-----(46.158 sec) Time per time step 9.21798e-05
+[ 0][INFO    ]-----(46.174 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (128, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 2000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(46.174 sec) Simulating Scenario 12 of 30 :
+[ 0][INFO    ]-----(46.363 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(46.415 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(47.781 sec) Simulation finished
+[ 0][RESULT  ]-----(47.781 sec) MLUPS per process 3070.93
+[ 0][RESULT  ]-----(47.781 sec) Time per time step 0.000682905
+[ 0][INFO    ]-----(47.794 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(49.160 sec) Simulation finished
+[ 0][RESULT  ]-----(49.160 sec) MLUPS per process 3070.93
+[ 0][RESULT  ]-----(49.160 sec) Time per time step 0.000682904
+[ 0][INFO    ]-----(49.172 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(50.538 sec) Simulation finished
+[ 0][RESULT  ]-----(50.538 sec) MLUPS per process 3071.22
+[ 0][RESULT  ]-----(50.538 sec) Time per time step 0.000682841
+[ 0][INFO    ]-----(50.560 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (128, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (64, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 2000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(50.560 sec) Simulating Scenario 13 of 30 :
+[ 0][INFO    ]-----(50.737 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(50.811 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(52.174 sec) Simulation finished
+[ 0][RESULT  ]-----(52.174 sec) MLUPS per process 3075.61
+[ 0][RESULT  ]-----(52.174 sec) Time per time step 0.000681865
+[ 0][INFO    ]-----(52.187 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(53.551 sec) Simulation finished
+[ 0][RESULT  ]-----(53.551 sec) MLUPS per process 3075.68
+[ 0][RESULT  ]-----(53.551 sec) Time per time step 0.000681849
+[ 0][INFO    ]-----(53.563 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(54.927 sec) Simulation finished
+[ 0][RESULT  ]-----(54.927 sec) MLUPS per process 3075.67
+[ 0][RESULT  ]-----(54.927 sec) Time per time step 0.000681852
+[ 0][INFO    ]-----(54.949 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (128, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (128, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 2000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(54.949 sec) Simulating Scenario 14 of 30 :
+[ 0][INFO    ]-----(55.137 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(55.189 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(56.556 sec) Simulation finished
+[ 0][RESULT  ]-----(56.556 sec) MLUPS per process 3069.29
+[ 0][RESULT  ]-----(56.556 sec) Time per time step 0.000683269
+[ 0][INFO    ]-----(56.568 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(57.935 sec) Simulation finished
+[ 0][RESULT  ]-----(57.935 sec) MLUPS per process 3069.33
+[ 0][RESULT  ]-----(57.935 sec) Time per time step 0.00068326
+[ 0][INFO    ]-----(57.948 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(59.314 sec) Simulation finished
+[ 0][RESULT  ]-----(59.314 sec) MLUPS per process 3069.39
+[ 0][RESULT  ]-----(59.314 sec) Time per time step 0.000683247
+[ 0][INFO    ]-----(59.336 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (128, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 2, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 2000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(59.336 sec) Simulating Scenario 15 of 30 :
+[ 0][INFO    ]-----(59.522 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(59.576 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(60.940 sec) Simulation finished
+[ 0][RESULT  ]-----(60.940 sec) MLUPS per process 3073.85
+[ 0][RESULT  ]-----(60.940 sec) Time per time step 0.000682256
+[ 0][INFO    ]-----(60.954 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(62.318 sec) Simulation finished
+[ 0][RESULT  ]-----(62.318 sec) MLUPS per process 3073.98
+[ 0][RESULT  ]-----(62.318 sec) Time per time step 0.000682227
+[ 0][INFO    ]-----(62.331 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(63.695 sec) Simulation finished
+[ 0][RESULT  ]-----(63.695 sec) MLUPS per process 3073.87
+[ 0][RESULT  ]-----(63.695 sec) Time per time step 0.000682251
+[ 0][INFO    ]-----(63.768 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (128, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (64, 2, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 2000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(63.768 sec) Simulating Scenario 16 of 30 :
+[ 0][INFO    ]-----(63.945 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(64.009 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(65.370 sec) Simulation finished
+[ 0][RESULT  ]-----(65.370 sec) MLUPS per process 3081.67
+[ 0][RESULT  ]-----(65.370 sec) Time per time step 0.000680524
+[ 0][INFO    ]-----(65.382 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(66.743 sec) Simulation finished
+[ 0][RESULT  ]-----(66.743 sec) MLUPS per process 3081.8
+[ 0][RESULT  ]-----(66.743 sec) Time per time step 0.000680497
+[ 0][INFO    ]-----(66.758 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(68.119 sec) Simulation finished
+[ 0][RESULT  ]-----(68.119 sec) MLUPS per process 3081.67
+[ 0][RESULT  ]-----(68.119 sec) Time per time step 0.000680524
+[ 0][INFO    ]-----(68.142 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (128, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (128, 2, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 2000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(68.142 sec) Simulating Scenario 17 of 30 :
+[ 0][INFO    ]-----(68.318 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(68.382 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(69.753 sec) Simulation finished
+[ 0][RESULT  ]-----(69.753 sec) MLUPS per process 3060.67
+[ 0][RESULT  ]-----(69.753 sec) Time per time step 0.000685194
+[ 0][INFO    ]-----(69.765 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(71.136 sec) Simulation finished
+[ 0][RESULT  ]-----(71.136 sec) MLUPS per process 3060.78
+[ 0][RESULT  ]-----(71.136 sec) Time per time step 0.000685169
+[ 0][INFO    ]-----(71.149 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(72.519 sec) Simulation finished
+[ 0][RESULT  ]-----(72.519 sec) MLUPS per process 3060.66
+[ 0][RESULT  ]-----(72.519 sec) Time per time step 0.000685196
+[ 0][INFO    ]-----(72.541 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (128, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 4, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 2000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(72.541 sec) Simulating Scenario 18 of 30 :
+[ 0][INFO    ]-----(72.731 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(72.781 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(74.147 sec) Simulation finished
+[ 0][RESULT  ]-----(74.147 sec) MLUPS per process 3070.35
+[ 0][RESULT  ]-----(74.147 sec) Time per time step 0.000683033
+[ 0][INFO    ]-----(74.160 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(75.526 sec) Simulation finished
+[ 0][RESULT  ]-----(75.526 sec) MLUPS per process 3070.43
+[ 0][RESULT  ]-----(75.526 sec) Time per time step 0.000683016
+[ 0][INFO    ]-----(75.539 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(76.905 sec) Simulation finished
+[ 0][RESULT  ]-----(76.905 sec) MLUPS per process 3070.72
+[ 0][RESULT  ]-----(76.905 sec) Time per time step 0.000682951
+[ 0][INFO    ]-----(76.927 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (128, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (64, 4, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 2000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(76.927 sec) Simulating Scenario 19 of 30 :
+[ 0][INFO    ]-----(77.116 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(77.182 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(78.544 sec) Simulation finished
+[ 0][RESULT  ]-----(78.544 sec) MLUPS per process 3080.1
+[ 0][RESULT  ]-----(78.544 sec) Time per time step 0.000680872
+[ 0][INFO    ]-----(78.556 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(79.918 sec) Simulation finished
+[ 0][RESULT  ]-----(79.918 sec) MLUPS per process 3079.89
+[ 0][RESULT  ]-----(79.918 sec) Time per time step 0.000680918
+[ 0][INFO    ]-----(79.932 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(81.293 sec) Simulation finished
+[ 0][RESULT  ]-----(81.293 sec) MLUPS per process 3080.23
+[ 0][RESULT  ]-----(81.293 sec) Time per time step 0.000680842
+[ 0][INFO    ]-----(81.316 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (128, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 8, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 2000,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(81.316 sec) Simulating Scenario 20 of 30 :
+[ 0][INFO    ]-----(81.502 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(81.556 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(82.923 sec) Simulation finished
+[ 0][RESULT  ]-----(82.923 sec) MLUPS per process 3068.75
+[ 0][RESULT  ]-----(82.923 sec) Time per time step 0.000683389
+[ 0][INFO    ]-----(82.935 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(84.302 sec) Simulation finished
+[ 0][RESULT  ]-----(84.302 sec) MLUPS per process 3068.58
+[ 0][RESULT  ]-----(84.302 sec) Time per time step 0.000683427
+[ 0][INFO    ]-----(84.315 sec) Starting simulation with 2000 time steps
+[ 0][INFO    ]-----(85.682 sec) Simulation finished
+[ 0][RESULT  ]-----(85.682 sec) MLUPS per process 3068.67
+[ 0][RESULT  ]-----(85.682 sec) Time per time step 0.000683408
+[ 0][INFO    ]-----(85.704 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (256, 256, 256),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 250,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(85.704 sec) Simulating Scenario 21 of 30 :
+[ 0][INFO    ]-----(87.161 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(87.255 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]-----(88.597 sec) Simulation finished
+[ 0][RESULT  ]-----(88.597 sec) MLUPS per process 3125.66
+[ 0][RESULT  ]-----(88.597 sec) Time per time step 0.00536757
+[ 0][INFO    ]-----(88.610 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]-----(89.952 sec) Simulation finished
+[ 0][RESULT  ]-----(89.952 sec) MLUPS per process 3125.67
+[ 0][RESULT  ]-----(89.952 sec) Time per time step 0.00536755
+[ 0][INFO    ]-----(89.964 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]-----(91.306 sec) Simulation finished
+[ 0][RESULT  ]-----(91.306 sec) MLUPS per process 3125.68
+[ 0][RESULT  ]-----(91.306 sec) Time per time step 0.00536754
+[ 0][INFO    ]-----(91.343 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (256, 256, 256),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (64, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 250,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(91.343 sec) Simulating Scenario 22 of 30 :
+[ 0][INFO    ]-----(92.804 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(92.905 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]-----(94.245 sec) Simulation finished
+[ 0][RESULT  ]-----(94.245 sec) MLUPS per process 3129.07
+[ 0][RESULT  ]-----(94.245 sec) Time per time step 0.00536173
+[ 0][INFO    ]-----(94.258 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]-----(95.599 sec) Simulation finished
+[ 0][RESULT  ]-----(95.599 sec) MLUPS per process 3129
+[ 0][RESULT  ]-----(95.599 sec) Time per time step 0.00536185
+[ 0][INFO    ]-----(95.611 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]-----(96.952 sec) Simulation finished
+[ 0][RESULT  ]-----(96.952 sec) MLUPS per process 3128.72
+[ 0][RESULT  ]-----(96.952 sec) Time per time step 0.00536233
+[ 0][INFO    ]-----(96.988 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (256, 256, 256),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (128, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 250,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(96.989 sec) Simulating Scenario 23 of 30 :
+[ 0][INFO    ]-----(98.428 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]-----(98.541 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]-----(99.883 sec) Simulation finished
+[ 0][RESULT  ]-----(99.884 sec) MLUPS per process 3123.37
+[ 0][RESULT  ]-----(99.884 sec) Time per time step 0.00537152
+[ 0][INFO    ]-----(99.897 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(101.240 sec) Simulation finished
+[ 0][RESULT  ]----(101.240 sec) MLUPS per process 3123.16
+[ 0][RESULT  ]----(101.240 sec) Time per time step 0.00537188
+[ 0][INFO    ]----(101.252 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(102.595 sec) Simulation finished
+[ 0][RESULT  ]----(102.595 sec) MLUPS per process 3123.18
+[ 0][RESULT  ]----(102.595 sec) Time per time step 0.00537184
+[ 0][INFO    ]----(102.631 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (256, 256, 256),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 250,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]----(102.631 sec) Simulating Scenario 24 of 30 :
+[ 0][INFO    ]----(104.053 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]----(104.186 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(105.533 sec) Simulation finished
+[ 0][RESULT  ]----(105.533 sec) MLUPS per process 3113.46
+[ 0][RESULT  ]----(105.533 sec) Time per time step 0.00538861
+[ 0][INFO    ]----(105.546 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(106.893 sec) Simulation finished
+[ 0][RESULT  ]----(106.893 sec) MLUPS per process 3113.5
+[ 0][RESULT  ]----(106.893 sec) Time per time step 0.00538855
+[ 0][INFO    ]----(106.906 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(108.253 sec) Simulation finished
+[ 0][RESULT  ]----(108.253 sec) MLUPS per process 3113.43
+[ 0][RESULT  ]----(108.253 sec) Time per time step 0.00538867
+[ 0][INFO    ]----(108.289 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (256, 256, 256),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 2, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 250,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]----(108.289 sec) Simulating Scenario 25 of 30 :
+[ 0][INFO    ]----(109.748 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]----(109.848 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(111.189 sec) Simulation finished
+[ 0][RESULT  ]----(111.189 sec) MLUPS per process 3128.73
+[ 0][RESULT  ]----(111.189 sec) Time per time step 0.00536231
+[ 0][INFO    ]----(111.202 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(112.542 sec) Simulation finished
+[ 0][RESULT  ]----(112.542 sec) MLUPS per process 3128.94
+[ 0][RESULT  ]----(112.542 sec) Time per time step 0.00536194
+[ 0][INFO    ]----(112.555 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(113.895 sec) Simulation finished
+[ 0][RESULT  ]----(113.895 sec) MLUPS per process 3128.69
+[ 0][RESULT  ]----(113.895 sec) Time per time step 0.00536238
+[ 0][INFO    ]----(113.932 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (256, 256, 256),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (64, 2, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 250,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]----(113.932 sec) Simulating Scenario 26 of 30 :
+[ 0][INFO    ]----(115.406 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]----(115.508 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(116.846 sec) Simulation finished
+[ 0][RESULT  ]----(116.846 sec) MLUPS per process 3135.47
+[ 0][RESULT  ]----(116.846 sec) Time per time step 0.00535078
+[ 0][INFO    ]----(116.859 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(118.197 sec) Simulation finished
+[ 0][RESULT  ]----(118.197 sec) MLUPS per process 3135.47
+[ 0][RESULT  ]----(118.197 sec) Time per time step 0.00535079
+[ 0][INFO    ]----(118.210 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(119.547 sec) Simulation finished
+[ 0][RESULT  ]----(119.547 sec) MLUPS per process 3135.4
+[ 0][RESULT  ]----(119.547 sec) Time per time step 0.00535089
+[ 0][INFO    ]----(119.584 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (256, 256, 256),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (128, 2, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 250,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]----(119.584 sec) Simulating Scenario 27 of 30 :
+[ 0][INFO    ]----(121.040 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]----(121.145 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(122.490 sec) Simulation finished
+[ 0][RESULT  ]----(122.490 sec) MLUPS per process 3118.52
+[ 0][RESULT  ]----(122.490 sec) Time per time step 0.00537987
+[ 0][INFO    ]----(122.503 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(123.848 sec) Simulation finished
+[ 0][RESULT  ]----(123.848 sec) MLUPS per process 3118.57
+[ 0][RESULT  ]----(123.848 sec) Time per time step 0.00537978
+[ 0][INFO    ]----(123.860 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(125.205 sec) Simulation finished
+[ 0][RESULT  ]----(125.205 sec) MLUPS per process 3118.65
+[ 0][RESULT  ]----(125.205 sec) Time per time step 0.00537964
+[ 0][INFO    ]----(125.242 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (256, 256, 256),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 4, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 250,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]----(125.242 sec) Simulating Scenario 28 of 30 :
+[ 0][INFO    ]----(126.705 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]----(126.809 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(128.152 sec) Simulation finished
+[ 0][RESULT  ]----(128.152 sec) MLUPS per process 3124.24
+[ 0][RESULT  ]----(128.152 sec) Time per time step 0.00537002
+[ 0][INFO    ]----(128.164 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(129.507 sec) Simulation finished
+[ 0][RESULT  ]----(129.507 sec) MLUPS per process 3124.2
+[ 0][RESULT  ]----(129.507 sec) Time per time step 0.00537008
+[ 0][INFO    ]----(129.519 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(130.861 sec) Simulation finished
+[ 0][RESULT  ]----(130.861 sec) MLUPS per process 3124.15
+[ 0][RESULT  ]----(130.861 sec) Time per time step 0.00537016
+[ 0][INFO    ]----(130.898 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (256, 256, 256),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (64, 4, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 250,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]----(130.898 sec) Simulating Scenario 29 of 30 :
+[ 0][INFO    ]----(132.355 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]----(132.457 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(133.795 sec) Simulation finished
+[ 0][RESULT  ]----(133.795 sec) MLUPS per process 3133.83
+[ 0][RESULT  ]----(133.795 sec) Time per time step 0.00535359
+[ 0][INFO    ]----(133.808 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(135.146 sec) Simulation finished
+[ 0][RESULT  ]----(135.146 sec) MLUPS per process 3133.78
+[ 0][RESULT  ]----(135.146 sec) Time per time step 0.00535366
+[ 0][INFO    ]----(135.158 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(136.497 sec) Simulation finished
+[ 0][RESULT  ]----(136.497 sec) MLUPS per process 3133.75
+[ 0][RESULT  ]----(136.497 sec) Time per time step 0.00535372
+[ 0][INFO    ]----(136.533 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 4, 4),
+[ 0]                                             'cellsPerBlock': (256, 256, 256),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (32, 8, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'kernelOnly',
+[ 0]                                            'timesteps': 250,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]----(136.533 sec) Simulating Scenario 30 of 30 :
+[ 0][INFO    ]----(137.990 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[ 0][INFO    ]----(138.094 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(139.438 sec) Simulation finished
+[ 0][RESULT  ]----(139.438 sec) MLUPS per process 3121.93
+[ 0][RESULT  ]----(139.438 sec) Time per time step 0.005374
+[ 0][INFO    ]----(139.451 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(140.794 sec) Simulation finished
+[ 0][RESULT  ]----(140.794 sec) MLUPS per process 3122.16
+[ 0][RESULT  ]----(140.794 sec) Time per time step 0.00537359
+[ 0][INFO    ]----(140.839 sec) Starting simulation with 250 time steps
+[ 0][INFO    ]----(142.183 sec) Simulation finished
+[ 0][RESULT  ]----(142.183 sec) MLUPS per process 3122.16
+[ 0][RESULT  ]----(142.183 sec) Time per time step 0.00537359

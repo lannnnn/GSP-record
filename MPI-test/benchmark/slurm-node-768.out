@@ -1,0 +1,1622 @@
+[  0][INFO    ]------(0.000 sec) Selecting CUDA device depending on MPI Rank
+[  0][WARNING ]------(0.370 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[523][WARNING ]------(0.285 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[348][WARNING ]------(0.322 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[492][WARNING ]------(0.290 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[652][WARNING ]------(0.263 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[204][WARNING ]------(0.335 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[220][WARNING ]------(0.337 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[620][WARNING ]------(0.269 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[636][WARNING ]------(0.268 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[733][WARNING ]------(0.254 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[749][WARNING ]------(0.251 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[765][WARNING ]------(0.249 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 61][WARNING ]------(0.360 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[381][WARNING ]------(0.308 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[397][WARNING ]------(0.305 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[621][WARNING ]------(0.268 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[509][WARNING ]------(0.287 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[413][WARNING ]------(0.311 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[525][WARNING ]------(0.284 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[349][WARNING ]------(0.313 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[541][WARNING ]------(0.282 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[221][WARNING ]------(0.334 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[750][WARNING ]------(0.256 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[766][WARNING ]------(0.245 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[366][WARNING ]------(0.313 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[382][WARNING ]------(0.305 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[398][WARNING ]------(0.305 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[622][WARNING ]------(0.268 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[494][WARNING ]------(0.289 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[510][WARNING ]------(0.287 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[542][WARNING ]------(0.282 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[670][WARNING ]------(0.260 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[526][WARNING ]------(0.285 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[735][WARNING ]------(0.250 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[767][WARNING ]------(0.253 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[671][WARNING ]------(0.260 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[415][WARNING ]------(0.302 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[511][WARNING ]------(0.286 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[191][WARNING ]------(0.339 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[367][WARNING ]------(0.311 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[527][WARNING ]------(0.284 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[383][WARNING ]------(0.308 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[319][WARNING ]------(0.318 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[400][WARNING ]------(0.305 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[384][WARNING ]------(0.307 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[368][WARNING ]------(0.314 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[496][WARNING ]------(0.289 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[512][WARNING ]------(0.287 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[528][WARNING ]------(0.284 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[544][WARNING ]------(0.282 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[624][WARNING ]------(0.268 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[352][WARNING ]------(0.313 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[224][WARNING ]------(0.334 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[208][WARNING ]------(0.336 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[240][WARNING ]------(0.334 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[320][WARNING ]------(0.327 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[417][WARNING ]------(0.306 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[385][WARNING ]------(0.307 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[545][WARNING ]------(0.281 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[529][WARNING ]------(0.284 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[641][WARNING ]------(0.265 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[513][WARNING ]------(0.286 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[209][WARNING ]------(0.336 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[625][WARNING ]------(0.268 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[402][WARNING ]------(0.305 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[370][WARNING ]------(0.310 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[530][WARNING ]------(0.284 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[514][WARNING ]------(0.287 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[626][WARNING ]------(0.268 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[354][WARNING ]------(0.313 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[338][WARNING ]------(0.315 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[627][WARNING ]------(0.270 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[659][WARNING ]------(0.262 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[339][WARNING ]------(0.315 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[323][WARNING ]------(0.321 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[435][WARNING ]------(0.299 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[643][WARNING ]------(0.268 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[595][WARNING ]------(0.281 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[275][WARNING ]------(0.326 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[147][WARNING ]------(0.349 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 83][WARNING ]------(0.357 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 67][WARNING ]------(0.359 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[308][WARNING ]------(0.320 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[196][WARNING ]------(0.337 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[612][WARNING ]------(0.273 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[644][WARNING ]------(0.268 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 84][WARNING ]------(0.354 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[164][WARNING ]------(0.343 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[276][WARNING ]------(0.325 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[116][WARNING ]------(0.351 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 68][WARNING ]------(0.359 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[357][WARNING ]------(0.320 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[229][WARNING ]------(0.337 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[341][WARNING ]------(0.315 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[149][WARNING ]------(0.346 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[437][WARNING ]------(0.307 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[485][WARNING ]------(0.291 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[117][WARNING ]------(0.349 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[277][WARNING ]------(0.325 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[293][WARNING ]------(0.323 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[261][WARNING ]------(0.328 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[581][WARNING ]------(0.275 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[133][WARNING ]------(0.349 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[326][WARNING ]------(0.315 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[358][WARNING ]------(0.312 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[342][WARNING ]------(0.315 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[486][WARNING ]------(0.291 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[438][WARNING ]------(0.301 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[454][WARNING ]------(0.301 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[102][WARNING ]------(0.354 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[470][WARNING ]------(0.293 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[630][WARNING ]------(0.267 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[182][WARNING ]------(0.349 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 70][WARNING ]------(0.359 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[166][WARNING ]------(0.343 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[231][WARNING ]------(0.337 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[631][WARNING ]------(0.267 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[327][WARNING ]------(0.321 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[343][WARNING ]------(0.314 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[487][WARNING ]------(0.290 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[455][WARNING ]------(0.296 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 71][WARNING ]------(0.358 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[471][WARNING ]------(0.298 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[439][WARNING ]------(0.298 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[263][WARNING ]------(0.327 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 87][WARNING ]------(0.356 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[648][WARNING ]------(0.263 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[360][WARNING ]------(0.319 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[184][WARNING ]------(0.340 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[664][WARNING ]------(0.261 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[328][WARNING ]------(0.320 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[152][WARNING ]------(0.349 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[584][WARNING ]------(0.274 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[456][WARNING ]------(0.296 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[264][WARNING ]------(0.327 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 88][WARNING ]------(0.360 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[617][WARNING ]------(0.269 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[649][WARNING ]------(0.264 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[345][WARNING ]------(0.314 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[105][WARNING ]------(0.353 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[329][WARNING ]------(0.316 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[313][WARNING ]------(0.319 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 89][WARNING ]------(0.356 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[297][WARNING ]------(0.322 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[665][WARNING ]------(0.261 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[137][WARNING ]------(0.348 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 73][WARNING ]------(0.358 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[441][WARNING ]------(0.302 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[585][WARNING ]------(0.275 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[394][WARNING ]------(0.306 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[378][WARNING ]------(0.309 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[506][WARNING ]------(0.288 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[426][WARNING ]------(0.304 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[490][WARNING ]------(0.290 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[538][WARNING ]------(0.283 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[218][WARNING ]------(0.342 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[522][WARNING ]------(0.287 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[634][WARNING ]------(0.275 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[234][WARNING ]------(0.340 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[650][WARNING ]------(0.263 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[346][WARNING ]------(0.314 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[202][WARNING ]------(0.337 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[219][WARNING ]------(0.339 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[667][WARNING ]------(0.261 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[315][WARNING ]------(0.319 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[459][WARNING ]------(0.295 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[347][WARNING ]------(0.313 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 91][WARNING ]------(0.360 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[443][WARNING ]------(0.298 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[331][WARNING ]------(0.321 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[475][WARNING ]------(0.293 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[171][WARNING ]------(0.340 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[107][WARNING ]------(0.357 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[619][WARNING ]------(0.269 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[603][WARNING ]------(0.271 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[188][WARNING ]------(0.348 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[668][WARNING ]------(0.260 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[540][WARNING ]------(0.286 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[316][WARNING ]------(0.318 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[364][WARNING ]------(0.314 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[428][WARNING ]------(0.300 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[236][WARNING ]------(0.338 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[332][WARNING ]------(0.316 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[108][WARNING ]------(0.353 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[284][WARNING ]------(0.324 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[172][WARNING ]------(0.341 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 76][WARNING ]------(0.358 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[476][WARNING ]------(0.292 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[365][WARNING ]------(0.310 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[205][WARNING ]------(0.337 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[237][WARNING ]------(0.340 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[317][WARNING ]------(0.318 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[125][WARNING ]------(0.350 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[333][WARNING ]------(0.315 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[445][WARNING ]------(0.301 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[253][WARNING ]------(0.329 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[109][WARNING ]------(0.361 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[637][WARNING ]------(0.269 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[461][WARNING ]------(0.295 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[653][WARNING ]------(0.263 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[285][WARNING ]------(0.327 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[238][WARNING ]------(0.336 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[206][WARNING ]------(0.341 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[318][WARNING ]------(0.322 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[350][WARNING ]------(0.317 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[638][WARNING ]------(0.266 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[430][WARNING ]------(0.300 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[222][WARNING ]------(0.334 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 94][WARNING ]------(0.355 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[478][WARNING ]------(0.295 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[142][WARNING ]------(0.347 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[446][WARNING ]------(0.298 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[286][WARNING ]------(0.324 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[462][WARNING ]------(0.299 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 78][WARNING ]------(0.366 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[239][WARNING ]------(0.331 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[639][WARNING ]------(0.268 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[207][WARNING ]------(0.336 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 95][WARNING ]------(0.355 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[335][WARNING ]------(0.316 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[655][WARNING ]------(0.271 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 79][WARNING ]------(0.357 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[463][WARNING ]------(0.295 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[287][WARNING ]------(0.321 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[447][WARNING ]------(0.301 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[336][WARNING ]------(0.315 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[656][WARNING ]------(0.262 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 96][WARNING ]------(0.355 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[448][WARNING ]------(0.300 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[272][WARNING ]------(0.326 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[432][WARNING ]------(0.300 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[688][WARNING ]------(0.261 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[288][WARNING ]------(0.323 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[144][WARNING ]------(0.355 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[657][WARNING ]------(0.265 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[241][WARNING ]------(0.339 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[353][WARNING ]------(0.316 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[113][WARNING ]------(0.352 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[433][WARNING ]------(0.303 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 97][WARNING ]------(0.359 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[481][WARNING ]------(0.292 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[465][WARNING ]------(0.294 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[449][WARNING ]------(0.305 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 65][WARNING ]------(0.358 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 81][WARNING ]------(0.365 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[161][WARNING ]------(0.344 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[273][WARNING ]------(0.329 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[194][WARNING ]------(0.342 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[642][WARNING ]------(0.265 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[242][WARNING ]------(0.334 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[482][WARNING ]------(0.300 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 66][WARNING ]------(0.363 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[658][WARNING ]------(0.266 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[434][WARNING ]------(0.302 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[274][WARNING ]------(0.325 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 82][WARNING ]------(0.361 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[130][WARNING ]------(0.349 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[674][WARNING ]------(0.264 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[146][WARNING ]------(0.346 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[131][WARNING ]------(0.349 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[291][WARNING ]------(0.323 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[115][WARNING ]------(0.355 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 99][WARNING ]------(0.357 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[691][WARNING ]------(0.257 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[163][WARNING ]------(0.346 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[723][WARNING ]------(0.255 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[579][WARNING ]------(0.278 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[563][WARNING ]------(0.278 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 51][WARNING ]------(0.362 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[148][WARNING ]------(0.346 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[100][WARNING ]------(0.354 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[436][WARNING ]------(0.296 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[724][WARNING ]------(0.252 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[132][WARNING ]------(0.357 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[292][WARNING ]------(0.323 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[596][WARNING ]------(0.273 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[580][WARNING ]------(0.275 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[564][WARNING ]------(0.280 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[676][WARNING ]------(0.259 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[692][WARNING ]------(0.257 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 52][WARNING ]------(0.362 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 85][WARNING ]------(0.359 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[165][WARNING ]------(0.346 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[677][WARNING ]------(0.259 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[709][WARNING ]------(0.258 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[469][WARNING ]------(0.293 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[565][WARNING ]------(0.278 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[101][WARNING ]------(0.353 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[181][WARNING ]------(0.349 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[725][WARNING ]------(0.252 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[629][WARNING ]------(0.267 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[597][WARNING ]------(0.272 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[693][WARNING ]------(0.257 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 53][WARNING ]------(0.362 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[118][WARNING ]------(0.351 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[582][WARNING ]------(0.275 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[550][WARNING ]------(0.280 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[246][WARNING ]------(0.338 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[134][WARNING ]------(0.349 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[598][WARNING ]------(0.272 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[566][WARNING ]------(0.282 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[710][WARNING ]------(0.252 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[662][WARNING ]------(0.266 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 22][WARNING ]------(0.367 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[151][WARNING ]------(0.345 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[583][WARNING ]------(0.275 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[135][WARNING ]------(0.348 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[279][WARNING ]------(0.325 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[551][WARNING ]------(0.280 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[663][WARNING ]------(0.265 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[599][WARNING ]------(0.276 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[695][WARNING ]------(0.264 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[727][WARNING ]------(0.251 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 23][WARNING ]------(0.375 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[280][WARNING ]------(0.330 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 72][WARNING ]------(0.362 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[104][WARNING ]------(0.353 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[248][WARNING ]------(0.330 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[600][WARNING ]------(0.272 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[296][WARNING ]------(0.322 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[568][WARNING ]------(0.277 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[552][WARNING ]------(0.278 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[728][WARNING ]------(0.251 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[680][WARNING ]------(0.262 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[712][WARNING ]------(0.257 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[281][WARNING ]------(0.324 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[473][WARNING ]------(0.297 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[697][WARNING ]------(0.256 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[601][WARNING ]------(0.272 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[249][WARNING ]------(0.330 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[169][WARNING ]------(0.351 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[713][WARNING ]------(0.254 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[569][WARNING ]------(0.281 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[729][WARNING ]------(0.255 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[681][WARNING ]------(0.259 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[666][WARNING ]------(0.261 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[186][WARNING ]------(0.339 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[314][WARNING ]------(0.321 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[442][WARNING ]------(0.302 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[602][WARNING ]------(0.271 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[330][WARNING ]------(0.325 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[170][WARNING ]------(0.342 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[138][WARNING ]------(0.348 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[298][WARNING ]------(0.330 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[458][WARNING ]------(0.294 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[586][WARNING ]------(0.274 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 90][WARNING ]------(0.355 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[123][WARNING ]------(0.353 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[299][WARNING ]------(0.322 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[267][WARNING ]------(0.335 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[251][WARNING ]------(0.332 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[139][WARNING ]------(0.351 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[715][WARNING ]------(0.258 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[699][WARNING ]------(0.260 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[571][WARNING ]------(0.285 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[651][WARNING ]------(0.263 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[587][WARNING ]------(0.278 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[683][WARNING ]------(0.261 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 11][WARNING ]------(0.369 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[300][WARNING ]------(0.321 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[268][WARNING ]------(0.327 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[140][WARNING ]------(0.351 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[124][WARNING ]------(0.350 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[588][WARNING ]------(0.277 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[156][WARNING ]------(0.345 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[684][WARNING ]------(0.258 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[556][WARNING ]------(0.282 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[252][WARNING ]------(0.332 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[572][WARNING ]------(0.277 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[604][WARNING ]------(0.271 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[700][WARNING ]------(0.256 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[269][WARNING ]------(0.326 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[717][WARNING ]------(0.253 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 77][WARNING ]------(0.361 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[173][WARNING ]------(0.342 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[605][WARNING ]------(0.279 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 93][WARNING ]------(0.359 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[573][WARNING ]------(0.279 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[477][WARNING ]------(0.292 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[157][WARNING ]------(0.353 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[701][WARNING ]------(0.258 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[669][WARNING ]------(0.260 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[589][WARNING ]------(0.274 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 62][WARNING ]------(0.360 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[302][WARNING ]------(0.321 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[174][WARNING ]------(0.342 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[606][WARNING ]------(0.271 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[254][WARNING ]------(0.330 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[126][WARNING ]------(0.351 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[158][WARNING ]------(0.345 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[702][WARNING ]------(0.259 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[686][WARNING ]------(0.262 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[718][WARNING ]------(0.257 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[590][WARNING ]------(0.273 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[255][WARNING ]------(0.329 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[143][WARNING ]------(0.349 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[127][WARNING ]------(0.350 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[271][WARNING ]------(0.332 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[175][WARNING ]------(0.345 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[159][WARNING ]------(0.344 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[703][WARNING ]------(0.255 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[575][WARNING ]------(0.276 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[607][WARNING ]------(0.275 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[687][WARNING ]------(0.258 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[176][WARNING ]------(0.342 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[256][WARNING ]------(0.332 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[592][WARNING ]------(0.273 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[160][WARNING ]------(0.344 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[608][WARNING ]------(0.279 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[704][WARNING ]------(0.255 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[576][WARNING ]------(0.276 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[640][WARNING ]------(0.268 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[560][WARNING ]------(0.279 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[720][WARNING ]------(0.252 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 32][WARNING ]------(0.365 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 16][WARNING ]------(0.368 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 48][WARNING ]------(0.367 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[705][WARNING ]------(0.254 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[721][WARNING ]------(0.252 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[257][WARNING ]------(0.337 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[609][WARNING ]------(0.274 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[593][WARNING ]------(0.273 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[673][WARNING ]------(0.260 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[289][WARNING ]------(0.325 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[689][WARNING ]------(0.257 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[577][WARNING ]------(0.276 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[561][WARNING ]------(0.282 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 49][WARNING ]------(0.367 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 33][WARNING ]------(0.365 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 17][WARNING ]------(0.370 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[290][WARNING ]------(0.331 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 98][WARNING ]------(0.357 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[178][WARNING ]------(0.341 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[594][WARNING ]------(0.273 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[578][WARNING ]------(0.276 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[722][WARNING ]------(0.252 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[258][WARNING ]------(0.336 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[706][WARNING ]------(0.255 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 18][WARNING ]------(0.368 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 34][WARNING ]------(0.364 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  2][WARNING ]------(0.371 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  3][WARNING ]------(0.370 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 19][WARNING ]------(0.367 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 35][WARNING ]------(0.369 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  4][WARNING ]------(0.370 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 36][WARNING ]------(0.368 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 20][WARNING ]------(0.376 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  5][WARNING ]------(0.370 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 21][WARNING ]------(0.367 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 37][WARNING ]------(0.367 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  6][WARNING ]------(0.370 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 38][WARNING ]------(0.366 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 55][WARNING ]------(0.362 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  7][WARNING ]------(0.369 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 56][WARNING ]------(0.361 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 41][WARNING ]------(0.372 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[282][WARNING ]------(0.324 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[250][WARNING ]------(0.332 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[730][WARNING ]------(0.249 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[698][WARNING ]------(0.256 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[154][WARNING ]------(0.350 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[106][WARNING ]------(0.353 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[570][WARNING ]------(0.277 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[682][WARNING ]------(0.262 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[618][WARNING ]------(0.277 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[714][WARNING ]------(0.257 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 10][WARNING ]------(0.369 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 26][WARNING ]------(0.366 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 42][WARNING ]------(0.364 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 43][WARNING ]------(0.363 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 27][WARNING ]------(0.366 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 59][WARNING ]------(0.361 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 60][WARNING ]------(0.361 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 45][WARNING ]------(0.363 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 29][WARNING ]------(0.366 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 13][WARNING ]------(0.368 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 30][WARNING ]------(0.365 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 46][WARNING ]------(0.366 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 47][WARNING ]------(0.367 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 15][WARNING ]------(0.373 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[746][WARNING ]------(0.256 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[762][WARNING ]------(0.251 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[122][WARNING ]------(0.354 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[736][WARNING ]------(0.253 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[752][WARNING ]------(0.247 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[737][WARNING ]------(0.249 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[753][WARNING ]------(0.247 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[305][WARNING ]------(0.329 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[738][WARNING ]------(0.258 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[754][WARNING ]------(0.249 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[610][WARNING ]------(0.274 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[739][WARNING ]------(0.253 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[755][WARNING ]------(0.249 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[371][WARNING ]------(0.310 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[387][WARNING ]------(0.307 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[515][WARNING ]------(0.289 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[419][WARNING ]------(0.306 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[403][WARNING ]------(0.304 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[499][WARNING ]------(0.297 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[531][WARNING ]------(0.284 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[227][WARNING ]------(0.333 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[307][WARNING ]------(0.320 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[211][WARNING ]------(0.336 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[195][WARNING ]------(0.337 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[547][WARNING ]------(0.281 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[611][WARNING ]------(0.279 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[740][WARNING ]------(0.252 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[756][WARNING ]------(0.246 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[244][WARNING ]------(0.330 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[372][WARNING ]------(0.310 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[404][WARNING ]------(0.304 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[388][WARNING ]------(0.307 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[532][WARNING ]------(0.283 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[500][WARNING ]------(0.288 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[516][WARNING ]------(0.288 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[420][WARNING ]------(0.301 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[548][WARNING ]------(0.280 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[228][WARNING ]------(0.333 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[628][WARNING ]------(0.267 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[212][WARNING ]------(0.344 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[356][WARNING ]------(0.316 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[741][WARNING ]------(0.249 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[757][WARNING ]------(0.250 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[549][WARNING ]------(0.280 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[421][WARNING ]------(0.301 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[373][WARNING ]------(0.309 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[405][WARNING ]------(0.304 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[533][WARNING ]------(0.283 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[389][WARNING ]------(0.307 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[501][WARNING ]------(0.288 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[197][WARNING ]------(0.342 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[517][WARNING ]------(0.290 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[213][WARNING ]------(0.335 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[661][WARNING ]------(0.265 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[309][WARNING ]------(0.323 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[645][WARNING ]------(0.265 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[742][WARNING ]------(0.253 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[758][WARNING ]------(0.246 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[374][WARNING ]------(0.310 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[406][WARNING ]------(0.304 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[422][WARNING ]------(0.310 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[390][WARNING ]------(0.307 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[518][WARNING ]------(0.288 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[502][WARNING ]------(0.288 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[230][WARNING ]------(0.332 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[646][WARNING ]------(0.268 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[310][WARNING ]------(0.320 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[614][WARNING ]------(0.270 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[214][WARNING ]------(0.340 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[198][WARNING ]------(0.338 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[534][WARNING ]------(0.283 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[743][WARNING ]------(0.248 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[759][WARNING ]------(0.250 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[183][WARNING ]------(0.344 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[535][WARNING ]------(0.283 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[375][WARNING ]------(0.309 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[407][WARNING ]------(0.310 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[391][WARNING ]------(0.307 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[423][WARNING ]------(0.301 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[503][WARNING ]------(0.288 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[519][WARNING ]------(0.285 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[199][WARNING ]------(0.338 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[215][WARNING ]------(0.335 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[615][WARNING ]------(0.269 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[647][WARNING ]------(0.264 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[311][WARNING ]------(0.319 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[744][WARNING ]------(0.248 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[760][WARNING ]------(0.248 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[488][WARNING ]------(0.291 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[408][WARNING ]------(0.312 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[424][WARNING ]------(0.301 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[392][WARNING ]------(0.306 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[376][WARNING ]------(0.309 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[216][WARNING ]------(0.334 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[536][WARNING ]------(0.286 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[520][WARNING ]------(0.288 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[200][WARNING ]------(0.337 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[632][WARNING ]------(0.267 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[504][WARNING ]------(0.288 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[616][WARNING ]------(0.270 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[312][WARNING ]------(0.319 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[745][WARNING ]------(0.252 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[761][WARNING ]------(0.246 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[393][WARNING ]------(0.306 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[425][WARNING ]------(0.301 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[537][WARNING ]------(0.283 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[409][WARNING ]------(0.304 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[217][WARNING ]------(0.335 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[521][WARNING ]------(0.285 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[377][WARNING ]------(0.309 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[505][WARNING ]------(0.288 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[489][WARNING ]------(0.291 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[233][WARNING ]------(0.332 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[361][WARNING ]------(0.311 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[185][WARNING ]------(0.342 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[201][WARNING ]------(0.340 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[747][WARNING ]------(0.252 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[763][WARNING ]------(0.245 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[427][WARNING ]------(0.304 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[395][WARNING ]------(0.306 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[379][WARNING ]------(0.309 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[411][WARNING ]------(0.302 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[491][WARNING ]------(0.290 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[507][WARNING ]------(0.286 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[539][WARNING ]------(0.281 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[635][WARNING ]------(0.274 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[363][WARNING ]------(0.311 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[235][WARNING ]------(0.336 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[203][WARNING ]------(0.336 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[187][WARNING ]------(0.339 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[732][WARNING ]------(0.254 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[748][WARNING ]------(0.248 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[764][WARNING ]------(0.253 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[396][WARNING ]------(0.314 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[380][WARNING ]------(0.311 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[524][WARNING ]------(0.285 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[508][WARNING ]------(0.287 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[412][WARNING ]------(0.303 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[493][WARNING ]------(0.290 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[189][WARNING ]------(0.337 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[734][WARNING ]------(0.254 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[414][WARNING ]------(0.311 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[190][WARNING ]------(0.339 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[654][WARNING ]------(0.267 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[751][WARNING ]------(0.250 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[399][WARNING ]------(0.313 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[495][WARNING ]------(0.298 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[543][WARNING ]------(0.286 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[351][WARNING ]------(0.313 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[416][WARNING ]------(0.299 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[192][WARNING ]------(0.347 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[369][WARNING ]------(0.314 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[401][WARNING ]------(0.305 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[193][WARNING ]------(0.339 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[497][WARNING ]------(0.289 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[225][WARNING ]------(0.333 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[337][WARNING ]------(0.316 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[321][WARNING ]------(0.317 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[418][WARNING ]------(0.302 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[498][WARNING ]------(0.293 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[386][WARNING ]------(0.307 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[546][WARNING ]------(0.282 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[210][WARNING ]------(0.336 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[306][WARNING ]------(0.320 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[322][WARNING ]------(0.321 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[226][WARNING ]------(0.338 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[243][WARNING ]------(0.334 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[355][WARNING ]------(0.312 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[483][WARNING ]------(0.295 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[467][WARNING ]------(0.294 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[660][WARNING ]------(0.264 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[340][WARNING ]------(0.315 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[324][WARNING ]------(0.317 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[468][WARNING ]------(0.294 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[484][WARNING ]------(0.295 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[260][WARNING ]------(0.335 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[325][WARNING ]------(0.320 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[453][WARNING ]------(0.301 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 69][WARNING ]------(0.367 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 86][WARNING ]------(0.356 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[694][WARNING ]------(0.257 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[150][WARNING ]------(0.349 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[359][WARNING ]------(0.311 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[247][WARNING ]------(0.334 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[119][WARNING ]------(0.351 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[711][WARNING ]------(0.254 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[232][WARNING ]------(0.335 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[344][WARNING ]------(0.316 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[136][WARNING ]------(0.348 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[472][WARNING ]------(0.293 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[440][WARNING ]------(0.307 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[457][WARNING ]------(0.300 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[553][WARNING ]------(0.284 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[410][WARNING ]------(0.303 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[362][WARNING ]------(0.314 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[283][WARNING ]------(0.327 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 75][WARNING ]------(0.358 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[460][WARNING ]------(0.295 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 92][WARNING ]------(0.360 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[429][WARNING ]------(0.304 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[301][WARNING ]------(0.321 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[334][WARNING ]------(0.316 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[223][WARNING ]------(0.336 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[111][WARNING ]------(0.361 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[623][WARNING ]------(0.268 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 63][WARNING ]------(0.360 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[303][WARNING ]------(0.321 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 80][WARNING ]------(0.361 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[112][WARNING ]------(0.354 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 64][WARNING ]------(0.360 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[464][WARNING ]------(0.294 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[128][WARNING ]------(0.349 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[480][WARNING ]------(0.296 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[177][WARNING ]------(0.344 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[129][WARNING ]------(0.349 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[450][WARNING ]------(0.297 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[466][WARNING ]------(0.294 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[114][WARNING ]------(0.354 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[707][WARNING ]------(0.255 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[259][WARNING ]------(0.331 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[451][WARNING ]------(0.305 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[675][WARNING ]------(0.259 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[179][WARNING ]------(0.344 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[452][WARNING ]------(0.297 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[180][WARNING ]------(0.344 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[708][WARNING ]------(0.255 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[245][WARNING ]------(0.330 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[613][WARNING ]------(0.273 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[278][WARNING ]------(0.328 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[262][WARNING ]------(0.327 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[294][WARNING ]------(0.322 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[678][WARNING ]------(0.263 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[726][WARNING ]------(0.251 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[295][WARNING ]------(0.322 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[103][WARNING ]------(0.356 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[567][WARNING ]------(0.278 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[167][WARNING ]------(0.343 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[679][WARNING ]------(0.263 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[120][WARNING ]------(0.351 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[168][WARNING ]------(0.347 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[696][WARNING ]------(0.256 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[265][WARNING ]------(0.327 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[153][WARNING ]------(0.345 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[121][WARNING ]------(0.359 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[633][WARNING ]------(0.269 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 57][WARNING ]------(0.364 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[266][WARNING ]------(0.327 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[474][WARNING ]------(0.293 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 74][WARNING ]------(0.358 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[155][WARNING ]------(0.353 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[731][WARNING ]------(0.259 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[555][WARNING ]------(0.280 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[444][WARNING ]------(0.302 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[716][WARNING ]------(0.253 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 12][WARNING ]------(0.369 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[141][WARNING ]------(0.347 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[557][WARNING ]------(0.282 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[685][WARNING ]------(0.262 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[110][WARNING ]------(0.352 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[270][WARNING ]------(0.329 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[558][WARNING ]------(0.279 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[574][WARNING ]------(0.276 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[431][WARNING ]------(0.300 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[479][WARNING ]------(0.292 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[591][WARNING ]------(0.274 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[719][WARNING ]------(0.256 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[559][WARNING ]------(0.278 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[304][WARNING ]------(0.320 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[672][WARNING ]------(0.269 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[145][WARNING ]------(0.346 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  1][WARNING ]------(0.370 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[162][WARNING ]------(0.343 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[690][WARNING ]------(0.258 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[562][WARNING ]------(0.279 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 50][WARNING ]------(0.363 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 54][WARNING ]------(0.365 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 39][WARNING ]------(0.363 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 24][WARNING ]------(0.367 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  8][WARNING ]------(0.370 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 25][WARNING ]------(0.369 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  9][WARNING ]------(0.373 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[554][WARNING ]------(0.280 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 28][WARNING ]------(0.366 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 44][WARNING ]------(0.367 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 14][WARNING ]------(0.368 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 31][WARNING ]------(0.365 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 58][WARNING ]------(0.361 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 40][WARNING ]------(0.364 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[  0][INFO    ]------(5.566 sec) Batch run of benchmark scenarios, saving result to gpu_benchmark.sqlite3
+[  0][INFO    ]------(5.566 sec) Running single GPU benchmarks
+[  0][INFO    ]------(5.566 sec) 
+[  0][INFO    ]------(5.568 sec) Cuda block size (32, 16, 1) would exceed register limit. Skipping.
+[  0][INFO    ]------(5.568 sec) Cuda block size (64, 8, 1) would exceed register limit. Skipping.
+[  0][INFO    ]------(5.568 sec) Cuda block size (32, 16, 1) would exceed register limit. Skipping.
+[  0][INFO    ]------(5.568 sec) Cuda block size (128, 4, 1) would exceed register limit. Skipping.
+[  0][INFO    ]------(5.568 sec) Cuda block size (64, 8, 1) would exceed register limit. Skipping.
+[  0][INFO    ]------(5.568 sec) Cuda block size (32, 16, 1) would exceed register limit. Skipping.
+[  0][INFO    ]------(5.569 sec) Cuda block size (256, 2, 1) would exceed register limit. Skipping.
+[  0][INFO    ]------(5.569 sec) Cuda block size (128, 4, 1) would exceed register limit. Skipping.
+[  0][INFO    ]------(5.569 sec) Cuda block size (64, 8, 1) would exceed register limit. Skipping.
+[  0][INFO    ]------(5.569 sec) Cuda block size (32, 16, 1) would exceed register limit. Skipping.
+[  0][INFO    ]------(5.569 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (32, 32, 32),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 128000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]------(5.569 sec) Simulating Scenario 1 of 30 :
+[  0][INFO    ]------(5.807 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]------(5.890 sec) Starting simulation with 128000 time steps
+[  0][INFO    ]------(6.915 sec) Simulation finished
+[  0][RESULT  ]------(6.915 sec) MLUPS per process 4090.69
+[  0][RESULT  ]------(6.915 sec) Time per time step 8.01039e-06
+[  0][INFO    ]------(7.088 sec) Starting simulation with 128000 time steps
+[  0][INFO    ]------(8.087 sec) Simulation finished
+[  0][RESULT  ]------(8.087 sec) MLUPS per process 4196.91
+[  0][RESULT  ]------(8.087 sec) Time per time step 7.80765e-06
+[  0][INFO    ]------(8.104 sec) Starting simulation with 128000 time steps
+[  0][INFO    ]------(9.103 sec) Simulation finished
+[  0][RESULT  ]------(9.103 sec) MLUPS per process 4196.89
+[  0][RESULT  ]------(9.103 sec) Time per time step 7.80768e-06
+[  0][INFO    ]------(9.123 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (32, 32, 32),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 2, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 128000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]------(9.123 sec) Simulating Scenario 2 of 30 :
+[  0][INFO    ]------(9.170 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]------(9.242 sec) Starting simulation with 128000 time steps
+[  0][INFO    ]-----(10.283 sec) Simulation finished
+[  0][RESULT  ]-----(10.283 sec) MLUPS per process 4029.37
+[  0][RESULT  ]-----(10.283 sec) Time per time step 8.13229e-06
+[  0][INFO    ]-----(10.300 sec) Starting simulation with 128000 time steps
+[  0][INFO    ]-----(11.341 sec) Simulation finished
+[  0][RESULT  ]-----(11.341 sec) MLUPS per process 4029.39
+[  0][RESULT  ]-----(11.341 sec) Time per time step 8.13225e-06
+[  0][INFO    ]-----(11.357 sec) Starting simulation with 128000 time steps
+[  0][INFO    ]-----(12.398 sec) Simulation finished
+[  0][RESULT  ]-----(12.398 sec) MLUPS per process 4028.92
+[  0][RESULT  ]-----(12.398 sec) Time per time step 8.13321e-06
+[  0][INFO    ]-----(12.421 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (32, 32, 32),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 4, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 128000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(12.421 sec) Simulating Scenario 3 of 30 :
+[  0][INFO    ]-----(12.430 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(12.454 sec) Starting simulation with 128000 time steps
+[  0][INFO    ]-----(13.472 sec) Simulation finished
+[  0][RESULT  ]-----(13.472 sec) MLUPS per process 4119.39
+[  0][RESULT  ]-----(13.472 sec) Time per time step 7.95458e-06
+[  0][INFO    ]-----(13.488 sec) Starting simulation with 128000 time steps
+[  0][INFO    ]-----(14.506 sec) Simulation finished
+[  0][RESULT  ]-----(14.506 sec) MLUPS per process 4119.64
+[  0][RESULT  ]-----(14.506 sec) Time per time step 7.95409e-06
+[  0][INFO    ]-----(14.522 sec) Starting simulation with 128000 time steps
+[  0][INFO    ]-----(15.540 sec) Simulation finished
+[  0][RESULT  ]-----(15.540 sec) MLUPS per process 4119.84
+[  0][RESULT  ]-----(15.540 sec) Time per time step 7.95371e-06
+[  0][INFO    ]-----(15.559 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (32, 32, 32),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 8, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 128000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(15.559 sec) Simulating Scenario 4 of 30 :
+[  0][INFO    ]-----(15.716 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(15.743 sec) Starting simulation with 128000 time steps
+[  0][INFO    ]-----(16.944 sec) Simulation finished
+[  0][RESULT  ]-----(16.944 sec) MLUPS per process 3493.79
+[  0][RESULT  ]-----(16.944 sec) Time per time step 9.37892e-06
+[  0][INFO    ]-----(16.960 sec) Starting simulation with 128000 time steps
+[  0][INFO    ]-----(18.160 sec) Simulation finished
+[  0][RESULT  ]-----(18.160 sec) MLUPS per process 3494.11
+[  0][RESULT  ]-----(18.160 sec) Time per time step 9.37807e-06
+[  0][INFO    ]-----(18.175 sec) Starting simulation with 128000 time steps
+[  0][INFO    ]-----(19.376 sec) Simulation finished
+[  0][RESULT  ]-----(19.376 sec) MLUPS per process 3493.99
+[  0][RESULT  ]-----(19.376 sec) Time per time step 9.37838e-06
+[  0][INFO    ]-----(19.396 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (64, 64, 64),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 16000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(19.396 sec) Simulating Scenario 5 of 30 :
+[  0][INFO    ]-----(19.474 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(19.517 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(20.990 sec) Simulation finished
+[  0][RESULT  ]-----(20.990 sec) MLUPS per process 2846.37
+[  0][RESULT  ]-----(20.990 sec) Time per time step 9.20977e-05
+[  0][INFO    ]-----(21.012 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(22.486 sec) Simulation finished
+[  0][RESULT  ]-----(22.486 sec) MLUPS per process 2846.45
+[  0][RESULT  ]-----(22.486 sec) Time per time step 9.2095e-05
+[  0][INFO    ]-----(22.501 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(23.974 sec) Simulation finished
+[  0][RESULT  ]-----(23.974 sec) MLUPS per process 2846.62
+[  0][RESULT  ]-----(23.974 sec) Time per time step 9.20895e-05
+[  0][INFO    ]-----(23.993 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (64, 64, 64),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (64, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 16000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(23.993 sec) Simulating Scenario 6 of 30 :
+[  0][INFO    ]-----(24.024 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(24.051 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(25.520 sec) Simulation finished
+[  0][RESULT  ]-----(25.520 sec) MLUPS per process 2854.1
+[  0][RESULT  ]-----(25.520 sec) Time per time step 9.18484e-05
+[  0][INFO    ]-----(25.536 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(27.006 sec) Simulation finished
+[  0][RESULT  ]-----(27.006 sec) MLUPS per process 2854.11
+[  0][RESULT  ]-----(27.006 sec) Time per time step 9.1848e-05
+[  0][INFO    ]-----(27.021 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(28.491 sec) Simulation finished
+[  0][RESULT  ]-----(28.491 sec) MLUPS per process 2853.87
+[  0][RESULT  ]-----(28.491 sec) Time per time step 9.18557e-05
+[  0][INFO    ]-----(28.510 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (64, 64, 64),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 2, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 16000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(28.510 sec) Simulating Scenario 7 of 30 :
+[  0][INFO    ]-----(28.541 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(28.567 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(30.040 sec) Simulation finished
+[  0][RESULT  ]-----(30.040 sec) MLUPS per process 2846.65
+[  0][RESULT  ]-----(30.040 sec) Time per time step 9.20885e-05
+[  0][INFO    ]-----(30.059 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(31.532 sec) Simulation finished
+[  0][RESULT  ]-----(31.532 sec) MLUPS per process 2846.97
+[  0][RESULT  ]-----(31.532 sec) Time per time step 9.20783e-05
+[  0][INFO    ]-----(31.546 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(33.020 sec) Simulation finished
+[  0][RESULT  ]-----(33.020 sec) MLUPS per process 2846.66
+[  0][RESULT  ]-----(33.020 sec) Time per time step 9.20883e-05
+[  0][INFO    ]-----(33.038 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (64, 64, 64),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (64, 2, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 16000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(33.038 sec) Simulating Scenario 8 of 30 :
+[  0][INFO    ]-----(33.069 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(33.095 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(34.567 sec) Simulation finished
+[  0][RESULT  ]-----(34.567 sec) MLUPS per process 2848.29
+[  0][RESULT  ]-----(34.567 sec) Time per time step 9.20355e-05
+[  0][INFO    ]-----(34.582 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(36.054 sec) Simulation finished
+[  0][RESULT  ]-----(36.054 sec) MLUPS per process 2848.5
+[  0][RESULT  ]-----(36.054 sec) Time per time step 9.20287e-05
+[  0][INFO    ]-----(36.069 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(37.542 sec) Simulation finished
+[  0][RESULT  ]-----(37.542 sec) MLUPS per process 2848.65
+[  0][RESULT  ]-----(37.542 sec) Time per time step 9.20238e-05
+[  0][INFO    ]-----(37.559 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (64, 64, 64),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 4, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 16000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(37.559 sec) Simulating Scenario 9 of 30 :
+[  0][INFO    ]-----(37.590 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(37.616 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(39.089 sec) Simulation finished
+[  0][RESULT  ]-----(39.089 sec) MLUPS per process 2848.3
+[  0][RESULT  ]-----(39.089 sec) Time per time step 9.20352e-05
+[  0][INFO    ]-----(39.103 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(40.576 sec) Simulation finished
+[  0][RESULT  ]-----(40.576 sec) MLUPS per process 2848.73
+[  0][RESULT  ]-----(40.576 sec) Time per time step 9.20213e-05
+[  0][INFO    ]-----(40.590 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(42.062 sec) Simulation finished
+[  0][RESULT  ]-----(42.062 sec) MLUPS per process 2848.95
+[  0][RESULT  ]-----(42.062 sec) Time per time step 9.20144e-05
+[  0][INFO    ]-----(42.080 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (64, 64, 64),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (64, 4, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 16000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(42.080 sec) Simulating Scenario 10 of 30 :
+[  0][INFO    ]-----(42.111 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(42.137 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(43.614 sec) Simulation finished
+[  0][RESULT  ]-----(43.614 sec) MLUPS per process 2840.09
+[  0][RESULT  ]-----(43.614 sec) Time per time step 9.23014e-05
+[  0][INFO    ]-----(43.628 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(45.105 sec) Simulation finished
+[  0][RESULT  ]-----(45.105 sec) MLUPS per process 2839.78
+[  0][RESULT  ]-----(45.105 sec) Time per time step 9.23113e-05
+[  0][INFO    ]-----(45.119 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(46.596 sec) Simulation finished
+[  0][RESULT  ]-----(46.596 sec) MLUPS per process 2839.54
+[  0][RESULT  ]-----(46.596 sec) Time per time step 9.23191e-05
+[  0][INFO    ]-----(46.614 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (64, 64, 64),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 8, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 16000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(46.614 sec) Simulating Scenario 11 of 30 :
+[  0][INFO    ]-----(46.644 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(46.672 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(48.147 sec) Simulation finished
+[  0][RESULT  ]-----(48.147 sec) MLUPS per process 2844.54
+[  0][RESULT  ]-----(48.147 sec) Time per time step 9.21568e-05
+[  0][INFO    ]-----(48.161 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(49.635 sec) Simulation finished
+[  0][RESULT  ]-----(49.636 sec) MLUPS per process 2844.93
+[  0][RESULT  ]-----(49.636 sec) Time per time step 9.21444e-05
+[  0][INFO    ]-----(49.648 sec) Starting simulation with 16000 time steps
+[  0][INFO    ]-----(51.123 sec) Simulation finished
+[  0][RESULT  ]-----(51.123 sec) MLUPS per process 2844.51
+[  0][RESULT  ]-----(51.123 sec) Time per time step 9.21578e-05
+[  0][INFO    ]-----(51.139 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (128, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 2000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(51.139 sec) Simulating Scenario 12 of 30 :
+[  0][INFO    ]-----(51.332 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(51.405 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(52.772 sec) Simulation finished
+[  0][RESULT  ]-----(52.772 sec) MLUPS per process 3069.42
+[  0][RESULT  ]-----(52.772 sec) Time per time step 0.00068324
+[  0][INFO    ]-----(52.824 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(54.190 sec) Simulation finished
+[  0][RESULT  ]-----(54.190 sec) MLUPS per process 3069.73
+[  0][RESULT  ]-----(54.190 sec) Time per time step 0.000683171
+[  0][INFO    ]-----(54.203 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(55.570 sec) Simulation finished
+[  0][RESULT  ]-----(55.570 sec) MLUPS per process 3069.79
+[  0][RESULT  ]-----(55.570 sec) Time per time step 0.000683157
+[  0][INFO    ]-----(55.592 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (128, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (64, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 2000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(55.592 sec) Simulating Scenario 13 of 30 :
+[  0][INFO    ]-----(55.784 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(55.865 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(57.229 sec) Simulation finished
+[  0][RESULT  ]-----(57.229 sec) MLUPS per process 3074.37
+[  0][RESULT  ]-----(57.229 sec) Time per time step 0.000682141
+[  0][INFO    ]-----(57.243 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(58.607 sec) Simulation finished
+[  0][RESULT  ]-----(58.607 sec) MLUPS per process 3074.29
+[  0][RESULT  ]-----(58.607 sec) Time per time step 0.000682158
+[  0][INFO    ]-----(58.621 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(59.985 sec) Simulation finished
+[  0][RESULT  ]-----(59.985 sec) MLUPS per process 3074.48
+[  0][RESULT  ]-----(59.985 sec) Time per time step 0.000682115
+[  0][INFO    ]-----(60.009 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (128, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (128, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 2000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(60.009 sec) Simulating Scenario 14 of 30 :
+[  0][INFO    ]-----(60.196 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(60.265 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(61.632 sec) Simulation finished
+[  0][RESULT  ]-----(61.632 sec) MLUPS per process 3068.69
+[  0][RESULT  ]-----(61.632 sec) Time per time step 0.000683404
+[  0][INFO    ]-----(61.645 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(63.012 sec) Simulation finished
+[  0][RESULT  ]-----(63.012 sec) MLUPS per process 3069
+[  0][RESULT  ]-----(63.012 sec) Time per time step 0.000683333
+[  0][INFO    ]-----(63.025 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(64.391 sec) Simulation finished
+[  0][RESULT  ]-----(64.391 sec) MLUPS per process 3068.77
+[  0][RESULT  ]-----(64.391 sec) Time per time step 0.000683384
+[  0][INFO    ]-----(64.415 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (128, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 2, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 2000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(64.415 sec) Simulating Scenario 15 of 30 :
+[  0][INFO    ]-----(64.606 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(64.654 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(66.019 sec) Simulation finished
+[  0][RESULT  ]-----(66.019 sec) MLUPS per process 3073.33
+[  0][RESULT  ]-----(66.019 sec) Time per time step 0.000682371
+[  0][INFO    ]-----(66.032 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(67.397 sec) Simulation finished
+[  0][RESULT  ]-----(67.397 sec) MLUPS per process 3073.06
+[  0][RESULT  ]-----(67.397 sec) Time per time step 0.000682431
+[  0][INFO    ]-----(67.410 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(68.774 sec) Simulation finished
+[  0][RESULT  ]-----(68.774 sec) MLUPS per process 3073.06
+[  0][RESULT  ]-----(68.774 sec) Time per time step 0.000682432
+[  0][INFO    ]-----(68.798 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (128, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (64, 2, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 2000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(68.798 sec) Simulating Scenario 16 of 30 :
+[  0][INFO    ]-----(68.991 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(69.060 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(70.421 sec) Simulation finished
+[  0][RESULT  ]-----(70.421 sec) MLUPS per process 3080.65
+[  0][RESULT  ]-----(70.421 sec) Time per time step 0.00068075
+[  0][INFO    ]-----(70.435 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(71.796 sec) Simulation finished
+[  0][RESULT  ]-----(71.796 sec) MLUPS per process 3080.79
+[  0][RESULT  ]-----(71.796 sec) Time per time step 0.00068072
+[  0][INFO    ]-----(71.810 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(73.172 sec) Simulation finished
+[  0][RESULT  ]-----(73.172 sec) MLUPS per process 3080.5
+[  0][RESULT  ]-----(73.172 sec) Time per time step 0.000680783
+[  0][INFO    ]-----(73.194 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (128, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (128, 2, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 2000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(73.194 sec) Simulating Scenario 17 of 30 :
+[  0][INFO    ]-----(73.389 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(73.435 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(74.806 sec) Simulation finished
+[  0][RESULT  ]-----(74.806 sec) MLUPS per process 3059.48
+[  0][RESULT  ]-----(74.806 sec) Time per time step 0.00068546
+[  0][INFO    ]-----(74.820 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(76.191 sec) Simulation finished
+[  0][RESULT  ]-----(76.191 sec) MLUPS per process 3059.64
+[  0][RESULT  ]-----(76.191 sec) Time per time step 0.000685425
+[  0][INFO    ]-----(76.203 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(77.574 sec) Simulation finished
+[  0][RESULT  ]-----(77.574 sec) MLUPS per process 3059.58
+[  0][RESULT  ]-----(77.574 sec) Time per time step 0.000685437
+[  0][INFO    ]-----(77.597 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (128, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 4, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 2000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(77.597 sec) Simulating Scenario 18 of 30 :
+[  0][INFO    ]-----(77.789 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(77.874 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(79.240 sec) Simulation finished
+[  0][RESULT  ]-----(79.240 sec) MLUPS per process 3070.62
+[  0][RESULT  ]-----(79.240 sec) Time per time step 0.000682974
+[  0][INFO    ]-----(79.253 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(80.619 sec) Simulation finished
+[  0][RESULT  ]-----(80.619 sec) MLUPS per process 3070.4
+[  0][RESULT  ]-----(80.619 sec) Time per time step 0.000683022
+[  0][INFO    ]-----(80.632 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(81.998 sec) Simulation finished
+[  0][RESULT  ]-----(81.998 sec) MLUPS per process 3070.52
+[  0][RESULT  ]-----(81.998 sec) Time per time step 0.000682995
+[  0][INFO    ]-----(82.020 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (128, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (64, 4, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 2000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(82.020 sec) Simulating Scenario 19 of 30 :
+[  0][INFO    ]-----(82.206 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(82.262 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(83.624 sec) Simulation finished
+[  0][RESULT  ]-----(83.624 sec) MLUPS per process 3079.22
+[  0][RESULT  ]-----(83.624 sec) Time per time step 0.000681067
+[  0][INFO    ]-----(83.637 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(84.999 sec) Simulation finished
+[  0][RESULT  ]-----(84.999 sec) MLUPS per process 3079.25
+[  0][RESULT  ]-----(84.999 sec) Time per time step 0.00068106
+[  0][INFO    ]-----(85.013 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(86.375 sec) Simulation finished
+[  0][RESULT  ]-----(86.375 sec) MLUPS per process 3078.67
+[  0][RESULT  ]-----(86.375 sec) Time per time step 0.000681187
+[  0][INFO    ]-----(86.398 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (128, 128, 128),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 8, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 2000,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(86.398 sec) Simulating Scenario 20 of 30 :
+[  0][INFO    ]-----(86.590 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(86.636 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(88.004 sec) Simulation finished
+[  0][RESULT  ]-----(88.004 sec) MLUPS per process 3067.63
+[  0][RESULT  ]-----(88.004 sec) Time per time step 0.000683638
+[  0][INFO    ]-----(88.016 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(89.384 sec) Simulation finished
+[  0][RESULT  ]-----(89.384 sec) MLUPS per process 3067.57
+[  0][RESULT  ]-----(89.384 sec) Time per time step 0.000683653
+[  0][INFO    ]-----(89.396 sec) Starting simulation with 2000 time steps
+[  0][INFO    ]-----(90.763 sec) Simulation finished
+[  0][RESULT  ]-----(90.763 sec) MLUPS per process 3067.75
+[  0][RESULT  ]-----(90.763 sec) Time per time step 0.000683611
+[  0][INFO    ]-----(90.786 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (256, 256, 256),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 250,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(90.786 sec) Simulating Scenario 21 of 30 :
+[  0][INFO    ]-----(92.252 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(92.331 sec) Starting simulation with 250 time steps
+[  0][INFO    ]-----(93.673 sec) Simulation finished
+[  0][RESULT  ]-----(93.673 sec) MLUPS per process 3126.03
+[  0][RESULT  ]-----(93.673 sec) Time per time step 0.00536694
+[  0][INFO    ]-----(93.686 sec) Starting simulation with 250 time steps
+[  0][INFO    ]-----(95.028 sec) Simulation finished
+[  0][RESULT  ]-----(95.028 sec) MLUPS per process 3126.02
+[  0][RESULT  ]-----(95.028 sec) Time per time step 0.00536697
+[  0][INFO    ]-----(95.040 sec) Starting simulation with 250 time steps
+[  0][INFO    ]-----(96.382 sec) Simulation finished
+[  0][RESULT  ]-----(96.382 sec) MLUPS per process 3125.82
+[  0][RESULT  ]-----(96.382 sec) Time per time step 0.00536729
+[  0][INFO    ]-----(97.144 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (256, 256, 256),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (64, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 250,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]-----(97.144 sec) Simulating Scenario 22 of 30 :
+[  0][INFO    ]-----(98.615 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]-----(98.695 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(100.036 sec) Simulation finished
+[  0][RESULT  ]----(100.036 sec) MLUPS per process 3128.92
+[  0][RESULT  ]----(100.036 sec) Time per time step 0.00536197
+[  0][INFO    ]----(100.048 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(101.389 sec) Simulation finished
+[  0][RESULT  ]----(101.389 sec) MLUPS per process 3128.95
+[  0][RESULT  ]----(101.389 sec) Time per time step 0.00536192
+[  0][INFO    ]----(101.401 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(102.742 sec) Simulation finished
+[  0][RESULT  ]----(102.742 sec) MLUPS per process 3129.04
+[  0][RESULT  ]----(102.742 sec) Time per time step 0.00536178
+[  0][INFO    ]----(102.779 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (256, 256, 256),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (128, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 250,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]----(102.779 sec) Simulating Scenario 23 of 30 :
+[  0][INFO    ]----(104.294 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]----(104.377 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(105.720 sec) Simulation finished
+[  0][RESULT  ]----(105.720 sec) MLUPS per process 3123.85
+[  0][RESULT  ]----(105.720 sec) Time per time step 0.00537069
+[  0][INFO    ]----(105.734 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(107.077 sec) Simulation finished
+[  0][RESULT  ]----(107.077 sec) MLUPS per process 3123.7
+[  0][RESULT  ]----(107.077 sec) Time per time step 0.00537094
+[  0][INFO    ]----(107.090 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(108.432 sec) Simulation finished
+[  0][RESULT  ]----(108.432 sec) MLUPS per process 3123.84
+[  0][RESULT  ]----(108.432 sec) Time per time step 0.0053707
+[  0][INFO    ]----(108.469 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (256, 256, 256),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (256, 1, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 250,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]----(108.469 sec) Simulating Scenario 24 of 30 :
+[  0][INFO    ]----(109.932 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]----(110.020 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(111.367 sec) Simulation finished
+[  0][RESULT  ]----(111.367 sec) MLUPS per process 3113.89
+[  0][RESULT  ]----(111.367 sec) Time per time step 0.00538787
+[  0][INFO    ]----(111.381 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(112.728 sec) Simulation finished
+[  0][RESULT  ]----(112.728 sec) MLUPS per process 3113.73
+[  0][RESULT  ]----(112.728 sec) Time per time step 0.00538813
+[  0][INFO    ]----(112.740 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(114.087 sec) Simulation finished
+[  0][RESULT  ]----(114.087 sec) MLUPS per process 3113.84
+[  0][RESULT  ]----(114.087 sec) Time per time step 0.00538795
+[  0][INFO    ]----(114.127 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (256, 256, 256),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 2, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 250,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]----(114.127 sec) Simulating Scenario 25 of 30 :
+[  0][INFO    ]----(115.591 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]----(115.725 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(117.066 sec) Simulation finished
+[  0][RESULT  ]----(117.066 sec) MLUPS per process 3128.93
+[  0][RESULT  ]----(117.066 sec) Time per time step 0.00536196
+[  0][INFO    ]----(117.079 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(118.419 sec) Simulation finished
+[  0][RESULT  ]----(118.419 sec) MLUPS per process 3128.77
+[  0][RESULT  ]----(118.419 sec) Time per time step 0.00536224
+[  0][INFO    ]----(118.431 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(119.772 sec) Simulation finished
+[  0][RESULT  ]----(119.772 sec) MLUPS per process 3128.67
+[  0][RESULT  ]----(119.772 sec) Time per time step 0.00536242
+[  0][INFO    ]----(119.809 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (256, 256, 256),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (64, 2, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 250,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]----(119.809 sec) Simulating Scenario 26 of 30 :
+[  0][INFO    ]----(121.356 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]----(121.436 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(122.773 sec) Simulation finished
+[  0][RESULT  ]----(122.773 sec) MLUPS per process 3135.56
+[  0][RESULT  ]----(122.773 sec) Time per time step 0.00535064
+[  0][INFO    ]----(122.788 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(124.126 sec) Simulation finished
+[  0][RESULT  ]----(124.126 sec) MLUPS per process 3135.43
+[  0][RESULT  ]----(124.126 sec) Time per time step 0.00535085
+[  0][INFO    ]----(124.138 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(125.476 sec) Simulation finished
+[  0][RESULT  ]----(125.476 sec) MLUPS per process 3135.39
+[  0][RESULT  ]----(125.476 sec) Time per time step 0.00535091
+[  0][INFO    ]----(125.561 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (256, 256, 256),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (128, 2, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 250,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]----(125.561 sec) Simulating Scenario 27 of 30 :
+[  0][INFO    ]----(127.026 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]----(127.185 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(128.529 sec) Simulation finished
+[  0][RESULT  ]----(128.529 sec) MLUPS per process 3118.92
+[  0][RESULT  ]----(128.529 sec) Time per time step 0.00537918
+[  0][INFO    ]----(128.543 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(129.887 sec) Simulation finished
+[  0][RESULT  ]----(129.887 sec) MLUPS per process 3119.05
+[  0][RESULT  ]----(129.887 sec) Time per time step 0.00537895
+[  0][INFO    ]----(129.901 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(131.246 sec) Simulation finished
+[  0][RESULT  ]----(131.246 sec) MLUPS per process 3118.85
+[  0][RESULT  ]----(131.246 sec) Time per time step 0.0053793
+[  0][INFO    ]----(131.283 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (256, 256, 256),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 4, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 250,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]----(131.284 sec) Simulating Scenario 28 of 30 :
+[  0][INFO    ]----(132.749 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]----(132.839 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(134.181 sec) Simulation finished
+[  0][RESULT  ]----(134.181 sec) MLUPS per process 3124.35
+[  0][RESULT  ]----(134.181 sec) Time per time step 0.00536983
+[  0][INFO    ]----(134.194 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(135.537 sec) Simulation finished
+[  0][RESULT  ]----(135.537 sec) MLUPS per process 3124.31
+[  0][RESULT  ]----(135.537 sec) Time per time step 0.00536989
+[  0][INFO    ]----(135.551 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(136.893 sec) Simulation finished
+[  0][RESULT  ]----(136.893 sec) MLUPS per process 3124.36
+[  0][RESULT  ]----(136.893 sec) Time per time step 0.00536981
+[  0][INFO    ]----(136.930 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (256, 256, 256),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (64, 4, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 250,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]----(136.930 sec) Simulating Scenario 29 of 30 :
+[  0][INFO    ]----(138.400 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]----(138.480 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(139.818 sec) Simulation finished
+[  0][RESULT  ]----(139.818 sec) MLUPS per process 3133.69
+[  0][RESULT  ]----(139.818 sec) Time per time step 0.00535382
+[  0][INFO    ]----(139.831 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(141.170 sec) Simulation finished
+[  0][RESULT  ]----(141.170 sec) MLUPS per process 3133.6
+[  0][RESULT  ]----(141.170 sec) Time per time step 0.00535397
+[  0][INFO    ]----(141.182 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(142.521 sec) Simulation finished
+[  0][RESULT  ]----(142.521 sec) MLUPS per process 3133.71
+[  0][RESULT  ]----(142.521 sec) Time per time step 0.00535379
+[  0][INFO    ]----(142.557 sec) Scenario:
+[  0]                            {'DomainSetup': {'blocks': (8, 8, 12),
+[  0]                                             'cellsPerBlock': (256, 256, 256),
+[  0]                                             'periodic': (1, 1, 1)},
+[  0]                             'Parameters': {'cudaEnabledMPI': True,
+[  0]                                            'gpuBlockSize': (32, 8, 1),
+[  0]                                            'initShearFlow': False,
+[  0]                                            'innerOuterSplit': (1, 1, 1),
+[  0]                                            'omega': 1.8,
+[  0]                                            'outerIterations': 3,
+[  0]                                            'timeStepStrategy': 'kernelOnly',
+[  0]                                            'timesteps': 250,
+[  0]                                            'vtkWriteFrequency': 0,
+[  0]                                            'warmupSteps': 5}}
+[  0][INFO    ]----(142.557 sec) Simulating Scenario 30 of 30 :
+[  0][INFO    ]----(144.024 sec) Running only compute kernel without boundary - this makes only sense for benchmarking!
+[  0][INFO    ]----(144.311 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(145.655 sec) Simulation finished
+[  0][RESULT  ]----(145.655 sec) MLUPS per process 3122.1
+[  0][RESULT  ]----(145.655 sec) Time per time step 0.0053737
+[  0][INFO    ]----(145.668 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(147.011 sec) Simulation finished
+[  0][RESULT  ]----(147.011 sec) MLUPS per process 3122.16
+[  0][RESULT  ]----(147.011 sec) Time per time step 0.0053736
+[  0][INFO    ]----(147.024 sec) Starting simulation with 250 time steps
+[  0][INFO    ]----(148.368 sec) Simulation finished
+[  0][RESULT  ]----(148.368 sec) MLUPS per process 3122.12
+[  0][RESULT  ]----(148.368 sec) Time per time step 0.00537366

@@ -1,0 +1,14 @@
+2 nodes(sender and receiver) random double data
+Data Size	Isend Wait Time
+convert to float
+100000      0.000135
+1000000 	0.001133s
+10000000 	0.010961s
+100000000	0.109485s
+
+
+using double
+100000      0.000234
+1000000  	0.001861
+10000000 	0.019268
+100000000	0.189590s

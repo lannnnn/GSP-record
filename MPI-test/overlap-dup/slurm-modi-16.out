@@ -1,0 +1,399 @@
+[ 0][INFO    ]------(0.000 sec) Selecting CUDA device depending on MPI Rank
+[ 0][WARNING ]------(0.106 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 3][WARNING ]------(0.106 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 2][WARNING ]------(0.106 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 1][WARNING ]------(0.106 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 5][WARNING ]------(0.106 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[10][WARNING ]------(0.104 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 9][WARNING ]------(0.105 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 4][WARNING ]------(0.106 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 8][WARNING ]------(0.105 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 7][WARNING ]------(0.105 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[13][WARNING ]------(0.104 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[12][WARNING ]------(0.104 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[14][WARNING ]------(0.104 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 6][WARNING ]------(0.105 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[11][WARNING ]------(0.104 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[15][WARNING ]------(0.104 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[ 0][INFO    ]------(1.860 sec) Batch run of benchmark scenarios, saving result to gpu_benchmark.sqlite3
+[ 0][INFO    ]------(1.860 sec) Running different communication overlap strategies
+[ 0][INFO    ]------(1.860 sec) 
+[ 0][INFO    ]------(1.863 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'noOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]------(1.863 sec) Simulating Scenario 1 of 14 :
+[ 0][INFO    ]------(2.373 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]------(2.633 sec) Simulation finished
+[ 0][RESULT  ]------(2.633 sec) MLUPS per process 1617.87
+[ 0][RESULT  ]------(2.633 sec) Time per time step 0.00259249
+[ 0][INFO    ]------(2.691 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]------(2.941 sec) Simulation finished
+[ 0][RESULT  ]------(2.941 sec) MLUPS per process 1678.48
+[ 0][RESULT  ]------(2.941 sec) Time per time step 0.00249888
+[ 0][WARNING ]------(8.045 sec) Sqlite DB writing failed: try 1/4  database is locked
+[ 0][INFO    ]-----(10.818 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(11.078 sec) Simulation finished
+[ 0][RESULT  ]-----(11.078 sec) MLUPS per process 1614.31
+[ 0][RESULT  ]-----(11.078 sec) Time per time step 0.00259821
+[ 0][INFO    ]-----(11.132 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (1, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'simpleOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(11.132 sec) Simulating Scenario 2 of 14 :
+[ 0][INFO    ]-----(11.603 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(11.812 sec) Simulation finished
+[ 0][RESULT  ]-----(11.812 sec) MLUPS per process 2003.71
+[ 0][RESULT  ]-----(11.812 sec) Time per time step 0.00209327
+[ 0][INFO    ]-----(11.847 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(12.048 sec) Simulation finished
+[ 0][RESULT  ]-----(12.048 sec) MLUPS per process 2087.81
+[ 0][RESULT  ]-----(12.048 sec) Time per time step 0.00200895
+[ 0][INFO    ]-----(12.131 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(12.338 sec) Simulation finished
+[ 0][RESULT  ]-----(12.338 sec) MLUPS per process 2026.94
+[ 0][RESULT  ]-----(12.338 sec) Time per time step 0.00206928
+[ 0][INFO    ]-----(12.383 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (4, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'simpleOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(12.383 sec) Simulating Scenario 3 of 14 :
+[ 0][INFO    ]-----(12.811 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(13.034 sec) Simulation finished
+[ 0][RESULT  ]-----(13.034 sec) MLUPS per process 1879.06
+[ 0][RESULT  ]-----(13.034 sec) Time per time step 0.00223213
+[ 0][INFO    ]-----(13.071 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(13.272 sec) Simulation finished
+[ 0][RESULT  ]-----(13.272 sec) MLUPS per process 2084.78
+[ 0][RESULT  ]-----(13.272 sec) Time per time step 0.00201186
+[ 0][INFO    ]-----(13.290 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(13.493 sec) Simulation finished
+[ 0][RESULT  ]-----(13.493 sec) MLUPS per process 2065.07
+[ 0][RESULT  ]-----(13.493 sec) Time per time step 0.00203107
+[ 0][INFO    ]-----(13.537 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (8, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'simpleOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(13.537 sec) Simulating Scenario 4 of 14 :
+[ 0][INFO    ]-----(13.963 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(14.161 sec) Simulation finished
+[ 0][RESULT  ]-----(14.161 sec) MLUPS per process 2116.47
+[ 0][RESULT  ]-----(14.161 sec) Time per time step 0.00198174
+[ 0][INFO    ]-----(14.203 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(14.399 sec) Simulation finished
+[ 0][RESULT  ]-----(14.399 sec) MLUPS per process 2137.36
+[ 0][RESULT  ]-----(14.399 sec) Time per time step 0.00196238
+[ 0][INFO    ]-----(14.417 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(14.615 sec) Simulation finished
+[ 0][RESULT  ]-----(14.615 sec) MLUPS per process 2116.25
+[ 0][RESULT  ]-----(14.615 sec) Time per time step 0.00198195
+[ 0][INFO    ]-----(14.662 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (16, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'simpleOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(14.662 sec) Simulating Scenario 5 of 14 :
+[ 0][INFO    ]-----(15.119 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(15.311 sec) Simulation finished
+[ 0][RESULT  ]-----(15.311 sec) MLUPS per process 2185.57
+[ 0][RESULT  ]-----(15.311 sec) Time per time step 0.00191909
+[ 0][INFO    ]-----(15.350 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(15.541 sec) Simulation finished
+[ 0][RESULT  ]-----(15.541 sec) MLUPS per process 2197.62
+[ 0][RESULT  ]-----(15.541 sec) Time per time step 0.00190857
+[ 0][INFO    ]-----(15.559 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(15.748 sec) Simulation finished
+[ 0][RESULT  ]-----(15.748 sec) MLUPS per process 2224.84
+[ 0][RESULT  ]-----(15.748 sec) Time per time step 0.00188522
+[ 0][INFO    ]-----(15.795 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (32, 1, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'simpleOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(15.795 sec) Simulating Scenario 6 of 14 :
+[ 0][INFO    ]-----(16.221 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(16.419 sec) Simulation finished
+[ 0][RESULT  ]-----(16.419 sec) MLUPS per process 2115.69
+[ 0][RESULT  ]-----(16.419 sec) Time per time step 0.00198247
+[ 0][INFO    ]-----(16.458 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(16.657 sec) Simulation finished
+[ 0][RESULT  ]-----(16.657 sec) MLUPS per process 2105.71
+[ 0][RESULT  ]-----(16.657 sec) Time per time step 0.00199187
+[ 0][INFO    ]-----(16.675 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(16.875 sec) Simulation finished
+[ 0][RESULT  ]-----(16.876 sec) MLUPS per process 2087.84
+[ 0][RESULT  ]-----(16.876 sec) Time per time step 0.00200892
+[ 0][INFO    ]-----(16.923 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (4, 4, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'simpleOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(16.923 sec) Simulating Scenario 7 of 14 :
+[ 0][INFO    ]-----(17.348 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(17.552 sec) Simulation finished
+[ 0][RESULT  ]-----(17.552 sec) MLUPS per process 2051.1
+[ 0][RESULT  ]-----(17.552 sec) Time per time step 0.00204491
+[ 0][INFO    ]-----(17.588 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(17.791 sec) Simulation finished
+[ 0][RESULT  ]-----(17.791 sec) MLUPS per process 2068.34
+[ 0][RESULT  ]-----(17.791 sec) Time per time step 0.00202786
+[ 0][INFO    ]-----(17.809 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(18.009 sec) Simulation finished
+[ 0][RESULT  ]-----(18.009 sec) MLUPS per process 2095.31
+[ 0][RESULT  ]-----(18.009 sec) Time per time step 0.00200176
+[ 0][INFO    ]-----(18.173 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (8, 8, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'simpleOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(18.173 sec) Simulating Scenario 8 of 14 :
+[ 0][INFO    ]-----(18.601 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(18.794 sec) Simulation finished
+[ 0][RESULT  ]-----(18.794 sec) MLUPS per process 2163.86
+[ 0][RESULT  ]-----(18.794 sec) Time per time step 0.00193835
+[ 0][INFO    ]-----(18.832 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(19.026 sec) Simulation finished
+[ 0][RESULT  ]-----(19.026 sec) MLUPS per process 2162.44
+[ 0][RESULT  ]-----(19.026 sec) Time per time step 0.00193962
+[ 0][INFO    ]-----(19.044 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(19.242 sec) Simulation finished
+[ 0][RESULT  ]-----(19.243 sec) MLUPS per process 2113.36
+[ 0][RESULT  ]-----(19.243 sec) Time per time step 0.00198466
+[ 0][INFO    ]-----(19.290 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (16, 16, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'simpleOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(19.290 sec) Simulating Scenario 9 of 14 :
+[ 0][INFO    ]-----(19.715 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(19.909 sec) Simulation finished
+[ 0][RESULT  ]-----(19.909 sec) MLUPS per process 2162.61
+[ 0][RESULT  ]-----(19.909 sec) Time per time step 0.00193946
+[ 0][INFO    ]-----(19.947 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(20.141 sec) Simulation finished
+[ 0][RESULT  ]-----(20.141 sec) MLUPS per process 2163.53
+[ 0][RESULT  ]-----(20.141 sec) Time per time step 0.00193864
+[ 0][INFO    ]-----(20.159 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(20.353 sec) Simulation finished
+[ 0][RESULT  ]-----(20.353 sec) MLUPS per process 2163.74
+[ 0][RESULT  ]-----(20.353 sec) Time per time step 0.00193845
+[ 0][INFO    ]-----(20.399 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (32, 32, 1),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'simpleOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(20.400 sec) Simulating Scenario 10 of 14 :
+[ 0][INFO    ]-----(20.826 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(21.045 sec) Simulation finished
+[ 0][RESULT  ]-----(21.045 sec) MLUPS per process 1922.74
+[ 0][RESULT  ]-----(21.045 sec) Time per time step 0.00218142
+[ 0][INFO    ]-----(21.082 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(21.300 sec) Simulation finished
+[ 0][RESULT  ]-----(21.300 sec) MLUPS per process 1921.68
+[ 0][RESULT  ]-----(21.300 sec) Time per time step 0.00218262
+[ 0][INFO    ]-----(21.318 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(21.537 sec) Simulation finished
+[ 0][RESULT  ]-----(21.537 sec) MLUPS per process 1918.14
+[ 0][RESULT  ]-----(21.537 sec) Time per time step 0.00218665
+[ 0][INFO    ]-----(21.585 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (4, 4, 4),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'simpleOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(21.585 sec) Simulating Scenario 11 of 14 :
+[ 0][INFO    ]-----(22.037 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(22.235 sec) Simulation finished
+[ 0][RESULT  ]-----(22.235 sec) MLUPS per process 2117.51
+[ 0][RESULT  ]-----(22.235 sec) Time per time step 0.00198077
+[ 0][INFO    ]-----(22.275 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(22.480 sec) Simulation finished
+[ 0][RESULT  ]-----(22.480 sec) MLUPS per process 2041.44
+[ 0][RESULT  ]-----(22.480 sec) Time per time step 0.00205458
+[ 0][INFO    ]-----(22.501 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(22.702 sec) Simulation finished
+[ 0][RESULT  ]-----(22.702 sec) MLUPS per process 2081.32
+[ 0][RESULT  ]-----(22.702 sec) Time per time step 0.00201521
+[ 0][INFO    ]-----(22.748 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (8, 8, 8),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'simpleOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(22.749 sec) Simulating Scenario 12 of 14 :
+[ 0][INFO    ]-----(23.174 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(23.369 sec) Simulation finished
+[ 0][RESULT  ]-----(23.370 sec) MLUPS per process 2148.31
+[ 0][RESULT  ]-----(23.370 sec) Time per time step 0.00195237
+[ 0][INFO    ]-----(23.406 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(23.601 sec) Simulation finished
+[ 0][RESULT  ]-----(23.601 sec) MLUPS per process 2148.03
+[ 0][RESULT  ]-----(23.601 sec) Time per time step 0.00195263
+[ 0][INFO    ]-----(23.619 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(23.814 sec) Simulation finished
+[ 0][RESULT  ]-----(23.814 sec) MLUPS per process 2146.38
+[ 0][RESULT  ]-----(23.814 sec) Time per time step 0.00195413
+[ 0][INFO    ]-----(23.862 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (16, 16, 16),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'simpleOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(23.862 sec) Simulating Scenario 13 of 14 :
+[ 0][INFO    ]-----(24.289 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(24.494 sec) Simulation finished
+[ 0][RESULT  ]-----(24.494 sec) MLUPS per process 2045.25
+[ 0][RESULT  ]-----(24.494 sec) Time per time step 0.00205076
+[ 0][INFO    ]-----(24.532 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(24.737 sec) Simulation finished
+[ 0][RESULT  ]-----(24.737 sec) MLUPS per process 2047.26
+[ 0][RESULT  ]-----(24.737 sec) Time per time step 0.00204875
+[ 0][INFO    ]-----(24.755 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(24.960 sec) Simulation finished
+[ 0][RESULT  ]-----(24.960 sec) MLUPS per process 2047.1
+[ 0][RESULT  ]-----(24.960 sec) Time per time step 0.0020489
+[ 0][INFO    ]-----(25.006 sec) Scenario:
+[ 0]                            {'DomainSetup': {'blocks': (4, 2, 2),
+[ 0]                                             'cellsPerBlock': (256, 128, 128),
+[ 0]                                             'periodic': (1, 1, 1)},
+[ 0]                             'Parameters': {'cudaEnabledMPI': True,
+[ 0]                                            'gpuBlockSize': (256, 1, 1),
+[ 0]                                            'initShearFlow': False,
+[ 0]                                            'innerOuterSplit': (32, 32, 32),
+[ 0]                                            'omega': 1.8,
+[ 0]                                            'outerIterations': 3,
+[ 0]                                            'timeStepStrategy': 'simpleOverlap',
+[ 0]                                            'timesteps': 100,
+[ 0]                                            'vtkWriteFrequency': 0,
+[ 0]                                            'warmupSteps': 5}}
+[ 0][INFO    ]-----(25.006 sec) Simulating Scenario 14 of 14 :
+[ 0][INFO    ]-----(25.431 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(25.660 sec) Simulation finished
+[ 0][RESULT  ]-----(25.660 sec) MLUPS per process 1832.02
+[ 0][RESULT  ]-----(25.660 sec) Time per time step 0.00228945
+[ 0][INFO    ]-----(25.694 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(25.923 sec) Simulation finished
+[ 0][RESULT  ]-----(25.923 sec) MLUPS per process 1829.28
+[ 0][RESULT  ]-----(25.923 sec) Time per time step 0.00229287
+[ 0][INFO    ]-----(25.940 sec) Starting simulation with 100 time steps
+[ 0][INFO    ]-----(26.168 sec) Simulation finished
+[ 0][RESULT  ]-----(26.168 sec) MLUPS per process 1843.84
+[ 0][RESULT  ]-----(26.168 sec) Time per time step 0.00227476

@@ -1,0 +1,66 @@
+================================================================================
+|       BEGIN LOGGING - Tuesday, 23.August 2022, 16:01:01                      |
+================================================================================
+[0][INFO    ]------(0.000 sec) Selecting CUDA device depending on MPI Rank
+[0][WARNING ]------(0.000 sec) Not using all available GPUs on node. Processes on node: 1, available GPUs on node: 4
+[0][INFO    ]------(0.000 sec) Using mesh from S2A.obj.
+[0][INFO    ]------(3.186 sec) Octree has height 11
+[0][INFO    ]------(3.186 sec) Domain AABB has been adapted to requested block size:
+[0]                            Old AABB: [ <-2.52945,3.26021,-0.914706>, <2.33113,4.73979,0.914706> ]
+[0]                            New AABB: [ <-4.09916,-4,-4>, <3.90084,12,4> ]
+[0]                            
+[0][INFO    ]------(3.192 sec) The work is delegated to 1 blocks
+[0][INFO    ]------(3.192 sec) Cells in x direction: 32
+[0][INFO    ]------(3.192 sec) Cells in y direction: 64
+[0][INFO    ]------(3.192 sec) Cells in z direction: 32
+[0][INFO    ]------(3.192 sec) Blocks in x direction: 1
+[0][INFO    ]------(3.192 sec) Blocks in y direction: 1
+[0][INFO    ]------(3.192 sec) Blocks in z direction: 1
+[0][INFO    ]------(3.197 sec) sendDirectlyFromGPU: 0
+[0][INFO    ]------(4.439 sec) innerOuterSplitCell: (1,1,1)
+[0][INFO    ]------(4.439 sec) gpuBlockSize: <128,1,1>
+[0][INFO    ]------(4.446 sec) timeStepStrategy: noOverlap
+[0][INFO    ]------(4.446 sec) Simulating S2A:
+[0]                             timesteps:                  101
+[0]                             simulation time in seconds: 1.40278
+[0]                             reynolds number:            960000
+[0]                             relaxation rate:            1.99996
+[0]                             maximum inflow velocity:    0.05
+[0][INFO    ]------(4.456 sec) Simulation finished
+[0][RESULT  ]------(4.456 sec) Simulation performance:
+[0]                            - processes:   1
+[0]                            - threads:     1 (threads per process = 1, threads per core = n/a *))
+[0]                            - cores:       n/a *)
+[0]                            - time steps:  101
+[0]                            - time:        0.00743508 sec
+[0]                            - cells:       65536
+[0]                            - fluid cells: 65126 (99.3744 % of all cells)
+[0]                            - performance: 890.257 MLUPS (million lattice cell updates per second)
+[0]                                           890.257 MLUPS / process
+[0]                                           n/a *) MLUPS / core
+[0]                                           884.688 MFLUPS (million fluid lattice cell updates per second)
+[0]                                           884.688 MFLUPS / process
+[0]                                           n/a *) MFLUPS / core
+[0]                                           13584.2 time steps / second
+[0]                            - build / run information:
+[0]                               + host machine:   jwb0292.juwels
+[0]                               + build machine:  jwlogin22.juwels
+[0]                               + git SHA1:       2c62c0a7441a5d4c59d0dfaac7f8535cc4e8a57f
+[0]                               + build type:     Release
+[0]                               + compiler flags: -O3 -DNDEBUG  -Wall -Wconversion -Wshadow -Wfloat-equal -Wextra -pedantic -D_GLIBCXX_USE_CXX11_ABI=1 -pthread 
+[0]                            
+[0]                              *) only available if environment variable 'THREADS_PER_CORE' is set
+[0][RESULT  ]------(4.456 sec) Time loop timing:
+[0]                            Timer                   |       % |          Total|        Average|          Count|            Min|            Max|       Variance|
+[0]                            -----------------------------------------------------------------------------------------------------------------------------------
+[0]                            LB update rule          |  13.91% |           0.00|          0.000|            101|          0.000|          0.000|          0.000|
+[0]                            communication           |  58.29% |           0.00|          0.000|            101|          0.000|          0.000|          0.000|
+[0]                            noSlip boundary         |   9.48% |           0.00|          0.000|            101|          0.000|          0.000|          0.000|
+[0]                            outflow boundary        |   9.10% |           0.00|          0.000|            101|          0.000|          0.000|          0.000|
+[0]                            remaining time logger   |   0.18% |           0.00|          0.000|            101|          0.000|          0.000|          0.000|
+[0]                            ubb boundary            |   9.03% |           0.00|          0.000|            101|          0.000|          0.000|          0.000|
+[0]                            
+[0][INFO    ]------(4.456 sec) resident memory: Sample has 1 values in [1054936.000000, 1054936.000000], sum = 1054936.000000, mean = 1054936.000000, med = 1054936.000000, stddev = 0.000000 (relative: 0.000000), mad = 0.000000
+================================================================================
+|         END LOGGING - Tuesday, 23.August 2022, 16:01:05                      |
+================================================================================
