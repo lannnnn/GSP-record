@@ -3,22 +3,22 @@ The UniformGPUScheme.x are the files we mostly modified. Cover the origin file a
 ---------------------------------------------------------------------------------------------------------------------------------
 Vectorization-Based Optimization:
 pre-req env: CUDA
-The folder flagComp save the profiling result for flag/master branch, label 'non-prof' means disable the self-contained profiling.
+The folder flagComp save the profiling results for flag/master branch, label 'non-prof' means disable the self-contained profiling.
 
-Then the folder loopTest stores the toycase src. Only the inner for case stored since outer for just need to change the order of lines. Directly compiled by nvcc is valid, to compile the zfplib please refer to the readme
-	The memCheck is the ncu profiling file used for checking the memory varification due to simd and non-simd.
+Then the folder loopTest stores the toy case src. Only the inner case is stored since the outer for just needs to change the order of lines. Directly compiled by nvcc is valid
+	The memCheck is the ncu profiling file used for checking the memory verification due to simd and non-simd.
 	The perfTest is the ncu profiling to check the performance when we change the loop iter time.
 	The simdTest is the nsys report for simd and non-simd case.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 Communication-Based Optimization:
-pre-req env: CUDA, MPI, openMP, zfplib 
-The folder MPI-test store the profiling file for MPI origin and compressed(also compressed align mempry) test.
+pre-req env: CUDA, MPI, OpenMP, zfplib 
+The folder MPI-test stores the profiling file for MPI origin and compressed(also compressed align memory) test.
 	The folder send-recv is the simple sender-receiver performance collection
 	The benchmark is the baseline summary(self-contained profiling) for the origin code
 	The overlap-dup is the summary for the origin overlap case and the overlap case with duplicated data
-	The file cuda_random.cu is the test code for using zfpLib. To compile this, zfplib is needed.
+	The file cuda_random.cu is the test code for using zfpLib. To compile this, zfplib is needed, to compile the zfplib please refer to the readme
 
-The folder compression recorder is the mini-application which simulated the kernel operation. run make to compile
-	The several nhaloN folder store part of the test result of nhalo = ncell/N. Also the figure which is used to varify the correctness.
-	plot.py is used to plot the varification figure, used as python plot.py -i input.txt -o output.txt
+The folder compression recorder is the mini-application that simulated the kernel operation. run make to compile
+	The several nhaloN folder store part of the test result of nhalo = ncell/N. Also, the figure is used to verify the correctness.
+	plot.py is used to plot the verification figure, used as python plot.py -i input.txt -o output.txt
